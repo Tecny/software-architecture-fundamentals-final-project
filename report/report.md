@@ -123,7 +123,7 @@
 
   | Versión | Fecha | Autor | Descripción de Modificación |
   |-|-|-|-|
-  | 1.0 | 26-08-24 | Grupo Tecny | Completado los 3 primeros apitulos del informe. |
+  | 1.0 | 26-08-24 | Grupo Tecny | Completado los 3 primeros capitulos del informe. |
   | 2.0|  | Grupo Tecny |  |
   | 3.0|  | Grupo Tecny |  |
   | 4.0|  | Grupo Tecny |  |
