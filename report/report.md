@@ -476,20 +476,20 @@ Entrevista N°1:
 - **Sexo:** Masculino
 - **Edad:** 19 años
 - **Distrito:** San Miguel
-- **Duracion de la entrevista:** 5:59 minutos
-- **Resumen:** Patrizio es un estudiante universitario de la Universidad Peruana de Ciencias Aplicadas que le gusta estudiar, es por ello que su día a día es agitado. Él comenta que es complicado poder reservar las canchas debido a que primero tiene que ponerse de acuerdo con sus compañeros y luego tener que escribir por WhatsApp al dueño de la cancha, pero al querer seleccionar un horario este se encuentra ocupado o el horario no concuerda con la disponibilidad de todos los participantes. Siente que se puede mejorar la organización para reservar debido a que la forma actual es muy informal.Finalmente, nos comentó que el proceso de reserva genera molestia tanto para los jugadores como al dueño de la cancha por si surge una posible cancelación por motivos externos.
+- **Duracion de la entrevista:** 5:06 minutos
+- **Resumen:** Patrizio es un estudiante universitario de la Universidad Peruana de Ciencias Aplicadas que le gusta estudiar, es por ello que su día a día es agitado. Él comenta que es complicado poder organizar las canchas debido a que primero tiene que ponerse de acuerdo con sus amigos y luego tener que coordinar por WhatsApp, pero se encuentra con el problema de la disponibilidad de las personas debido al horario, el cual, no concuerda con todos los participantes. Siente que se puede mejorar el tema de la coordinación, con un aplicación que permita el unir a equipos y/o personas que estén interesadas en el mismo ámbito del deporte.
 
 Entrevista N°2:
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//entrevistado2.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//Tecny//software-architecture-fundamentals-final-project//report//report//images//entrevista2.png" alt="UPC">
 
 - **Entrevistador:** Sebastian Mendez
-- **Entrevistado:** Sebastian Tenorio
+- **Entrevistado:** Joaquin Mendoza
 - **Sexo:** Masculino
-- **Edad:** 19 años
+- **Edad:** 20 años
 - **Distrito:** Lima
-- **Duracion de la entrevista:** 4:19 minutos
-- **Resumen:** Sebastián es un estudiante universitario, tiene un horario apretado debido a la cantidad de clases que tiene. Suele buscar canchas de futbol cada 1 o 2 veces a la semana para jugar con sus amigos. El método por el cual reserva es contactos, o sea otro de sus amigos se contacta con el dueño para poder realizar la reserva. Él comenta que la dificultad en reservar radica en los pocos horarios que existen y conocer otra canchas, debido a que esto, las pocas veces que ha ido a reservar presencialmente se ha encontrado que estan ocupadas. Sebastián explica que el precio es fundamental al momento de alquilar una cancha, ya que actualmente hay precios exorbitantes. Finalmente, él considera que una aplicación movil que agilice las reservas ayudaría mucho la satisfacción del usuario.
+- **Duracion de la entrevista:** 9:12 minutos
+- **Resumen:** Joaquin es un estudiante universitario de la Universidad Peruana de Ciencias Aplicadas, tiene un horario apretado debido a la cantidad de clases que tiene. Suele organizar partidos de futbol cada 2 veces a la semana para jugar con sus amigos despues de clases. El método por el cual organiza es por medio de redes sociales tales como WhatsApp y/o Instagram. Él comenta que la dificultad en organizar radica en los pocos horarios que existen y la descordinación que hay entre las personas para poder realizar un partido y un equipo. Joaquin explica que le gustaría conocer los antecedentes de las personas con la cual jugaría un partido, ya que, para él, la seguridad es primero y tiene que ser fundamental el tener los datos de las personas con las que se relaciona.
 
 Entrevista N°3:
 
