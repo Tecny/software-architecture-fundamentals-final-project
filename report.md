@@ -156,7 +156,6 @@
     - 2.3.3. [User Journey Mapping](#233-user-journey-mapping)<br>
     - 2.3.4. [Empathy Mapping](#234-empathy-mapping)<br>
     - 2.3.5. [As-is Scenario Mapping](#235-as-is-scenario-mapping)<br>
-  - 2.4. [Ubiquitous Language](#24-ubiquitous-language)<br>
   
   [Capitulo III - Requirements Specification](#iii-requirements-specification)<br>
   
