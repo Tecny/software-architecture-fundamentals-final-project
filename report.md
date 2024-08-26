@@ -163,7 +163,6 @@
   - 3.3. [Impact Mapping](#33-impact-mapping) <br>
   - 3.4. [Product Backlog](#34-product-backlog) <br>
   
-  [Conclusiones](#conclusiones)<br>
   [Bibliografía](#bibliografia)<br>
   [Anexos](#anexos)<br>
 
