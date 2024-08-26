@@ -120,10 +120,12 @@
 
   | Versión | Fecha | Autor | Descripción de Modificación |
   |-|-|-|-|
-  | 1.0 | 14-04-24 | Grupo Tecny | Completado los 5 capitulos del informe y la elaboracion de la primera version del landing page. |
-  | 2.0| 03-05-24 | Grupo Tecny | Correcciones anteriores y elaboracion de la primera version del front web application. |
-  | 3.0| 03-05-24 | Grupo Tecny | Correcciones anteriores y elaboracion de la primera version del web services. |
-  | 4.0| 27-06-24 | Grupo Tecny | Correcciones anteriores y artefactos en versión final. |
+  | 1.0 | 26-08-24 | Grupo Tecny | Completado los 3 primeros apitulos del informe. |
+  | 2.0|  | Grupo Tecny |  |
+  | 3.0|  | Grupo Tecny |  |
+  | 4.0|  | Grupo Tecny |  |
+  | 5.0|  | Grupo Tecny |  |
+  | 6.0|  | Grupo Tecny |  |
 
 ### Capitulos <br>
   [Capitulo I - Introduction](#i-introduccion) <br>
