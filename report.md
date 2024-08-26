@@ -83,6 +83,7 @@
     </td>
     <td valign="top">
       TB1 - Primer Criterio - John Atencio: 
+      TB1 - Segundo Criterio - John Atencio: 
       <br><br>
     </td>
     <td rowspan="5" valign="middle">
@@ -91,18 +92,21 @@
   <tr>
     <td valign="top">
       TB1 - Primer Criterio - Henry Centurion: 
+      TB1 - Segundo Criterio - Henry Centurion: 
       <br><br>
     </td>
   </tr>
   <tr>
     <td valign="top">
       TB1 - Primer Criterio - Sebastián Frisancho: 
+      TB1 - Segundo Criterio - Sebastián Frisancho: 
       <br><br>
     </td>
   </tr>
   <tr>
     <td valign="top">
       TB1 - Primer Criterio - Sebastián Mendez: 
+      TB1 - Segundo Criterio - Sebastián Mendez: 
       <br><br>
     </td>
   </tr>
