@@ -79,12 +79,11 @@
     <th valign="top">Acciones realizadas</th>
     <th valign="top">Conclusiones</th>
   </tr>
-  <tr>
-    <td rowspan="5" valign="top">Primer criterio: Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software.
-    <br>
-    <br>
-    <br>Segundo criterio: Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.
-    </td>
+  <td rowspan="5" style="text-align: center; vertical-align: middle;">
+      Primer criterio: Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software.
+      <br><br>
+      Segundo criterio: Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.
+  </td>
     <td valign="top">
       TB1 - Primer Criterio - John Atencio: 
       <br>
