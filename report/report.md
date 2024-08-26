@@ -87,6 +87,7 @@
     </td>
     <td valign="top">
       TB1 - Primer Criterio - John Atencio: 
+      <br>
       TB1 - Segundo Criterio - John Atencio: 
       <br><br>
     </td>
@@ -96,6 +97,7 @@
   <tr>
     <td valign="top">
       TB1 - Primer Criterio - Henry Centurion: 
+      <br>
       TB1 - Segundo Criterio - Henry Centurion: 
       <br><br>
     </td>
@@ -103,6 +105,7 @@
   <tr>
     <td valign="top">
       TB1 - Primer Criterio - Sebastián Frisancho: 
+      <br>
       TB1 - Segundo Criterio - Sebastián Frisancho: 
       <br><br>
     </td>
@@ -110,6 +113,7 @@
   <tr>
     <td valign="top">
       TB1 - Primer Criterio - Sebastián Mendez: 
+      <br>
       TB1 - Segundo Criterio - Sebastián Mendez: 
       <br><br>
     </td>
@@ -1044,7 +1048,7 @@ Zmijewski, B. (2024, enero 4). *Needfinding: Crafting products aligned with user
 # Anexos
 
 Enlace a los videos requeridos en carpeta distribuidas:
-https://drive.google.com/drive/folders/1iE1xiKvPzH0PWNAW2sPdyf1PzsnNDHEQ?usp=sharing
+https://drive.google.com/drive/folders/197SEla1VGE-zNaTAcLTTlw1KqhfdbZR8
 
 As-is y to-be mapping Miro:
 https://miro.com/app/board/uXjVKUmcOCw=/?share_link_id=98435150377
