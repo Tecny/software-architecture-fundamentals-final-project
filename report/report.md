@@ -583,30 +583,6 @@ de canchas dentro de su zona, a su vez nos comenta que hay tenido que esperar au
 
 Entrevista N°10:
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//entrevistado-101.png" alt="UPC">
-
-- **Entrevistador:** Francis Mamani
-- **Entrevistado:** Jose Saico
-- **Sexo:** Masculino
-- **Edad:** 19 años
-- **Distrito:** Independencia
-- **duración de la entrevista:** 5:09 minutos
-- **Resumen:**   José saico, es un estudiante de la carrera de ingeniería de sistemas y copropietario de un salón de billar, este nos expresa su motivación para abrir un local de billar basado en la pasión familiar por el deporte y el deseo de crear un espacio de socialización. Destaca los servicios ofrecidos, como mesas de billar, sala de juegos y bar, y señala desafíos en la gestión diaria, proponiendo implementar una plataforma de reserva en línea para mejorar la experiencia del cliente y facilitar la gestión interna. Destaca la importancia de la facilidad de uso, disponibilidad de horarios en tiempo real, opciones de pago seguras y acceso a datos para optimizar la operación. También menciona preferencias en el soporte técnico y preocupaciones sobre la seguridad de los datos de los clientes.
-
-Entrevista N°11:
-
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//entrevistado-111.png" alt="UPC">
-
-- **Entrevistador:** Francis Mamani
-- **Entrevistado:** Piero Alessandro
-- **Sexo:** Masculino
-- **Edad:** 24 años
-- **Distrito:** Chorrillos
-- **duración de la entrevista:** 7:50 minutos
-- **Resumen:**   Piero Alessandro nos comenta que es dueño de un centro de futbol, este nos comenta que su sueño de apertura ese local se remonta desde pequeño debido a que desea compartir ese espacio con sus allegados. No obstante este mismo presenta problemas últimamente debido a la demanda en ciertas fechas respecto al alquiler de su local, esto se debe mas que todo por la poca organización que dispone actualmente, gracias a ello el esta interesado en ampliar sus opciones de administración para que así pueda tener una mejor organización y que también pueda generar mas ingresos, desde su punto de vista una buena plataforma es la que tiene una muy buena conexión con el usuario, además de implementar ciertas opciones de recopilación de datos de sus usuarios.
-
-Entrevista N°12:
-
 <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//entrevistado12.png" alt="UPC">
 
 - **Entrevistador:** Sebastian Frisancho
@@ -617,19 +593,7 @@ Entrevista N°12:
 - **duración de la entrevista:** 5:54 minutos
 - **Resumen:** Sebastian Pinto es un estudiante universitario. En su dia a dia durante la semana inicia levantandose temprano para ir al clases, por la tarde suele tenerlas libres pero ayuda en la casa, y en noche se queda estudiando o jugando videojuegos, los fines de semana si se coordina con sus amigos juega futbol. Con respeto al futbol, él suele jugar con una frecuencia de 3-4 veces al mes, por lo que se le considera jugador regular. Sin embargo, en Lima el desconoce locales de futbol por la poca publicidad y visibilidad que estas tienen. Él nos comenta que el tiempo que se demora aproximadamente para hacer el proceso de busqueda y reserva es significativo, ya que si alguien no tiene el contacto deben buscar por redes sociales y llamar para preguntar la disponibilidad. Al no estar satisfecho con la disponibilidad de sus canchas a experimentado tener que dejar de jugar por este problema. Le gustaria que se implemente una app donde se junten los anuncions de canchas en redes sociales para que se amplie la visibilidad de canchas dentro de su zona. Para una mejorar reserva el quisiera poder visualizar sus horarios disponibles. 
 
-Entrevista N°13:
-
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//entrevistado-131.png" alt="UPC" width="400" height="300">
-
-- **Entrevistador:** Francis Mamani
-- **Entrevistado:** Franco de la Cruz
-- **Sexo:** Masculino
-- **Edad:** 21 años
-- **Distrito:** Callao
-- **duración de la entrevista:** 5:30 minutos
-- **Resumen:**   Franco de la cruz, es un estudiante de la carrera de ingeniería de sistemas y propietario de un salón de billar, este nos comenta que la apertura y gestión de un local de billar ha sido emocionante pero desafiante, motivados por la pasión por el juego y la creación de un espacio comunitario acogedor. Ofrecemos diversas mesas de billar, juegos adicionales y un bar para complementar la experiencia. La gestión manual de reservas es un desafío, especialmente en momentos de alta demanda. Buscamos implementar una plataforma de reserva en línea que sea fácil de usar, con horarios en tiempo real y opciones de pago seguras. Valoramos el acceso a datos para mejorar la toma de decisiones. La seguridad de la información del cliente es una preocupación importante, así como la necesidad de un soporte técnico eficiente y atención al cliente.
-
-Entrevista N°14:
+Entrevista N°11:
 
 <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//entrevistado14.png" alt="UPC" width="400" height="300">
 
@@ -641,7 +605,7 @@ Entrevista N°14:
 - **duración de la entrevista:**
 - **Resumen:** Jefferson Alonso, estudiante de gastronomia, nos comenta que mantiene un pequeño negocio de billar. Como parte de sus funciones, explica que organizar el negocio es difícil, especialmente en lo que respecta a las reservas, ya que todo se realiza vía WhatsApp y resulta muy engorroso. Debido a ello, considera que una plataforma que gestione el alquiler de su local sería de gran ayuda. Además, nos brinda algunos consejos al respecto, como por ejemplo: Mostrar todos los servicios adicionales que ofrece el local, así como los precios de las mesas, la capacidad, los horarios de funcionamiento, la dirección y los tiempos de espera.
   
-Entrevista N°15:
+Entrevista N°12:
 
 <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//entrevistado15.png" alt="UPC" width="400" height="300">
 
