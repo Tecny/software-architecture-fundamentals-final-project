@@ -534,15 +534,15 @@ Entrevista N°5:
 
 Entrevista N°6:
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//entrevistado6.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//AC.png" alt="UPC">
 
 - **Entrevistador:** Sebastian Frisancho
-- **Entrevistado:** Luis Diego Eyzaguirre
+- **Entrevistado:** Alejandro Carrillo
 - **Sexo:** Masculino
-- **Edad:** 21 años
-- **Distrito:** Pueblo Libre
-- **Duracion de la entrevista:** 6:31 minutos
-- **Resumen:** Luis Diego es un estudiante de la UPC. En su dia a dia durante la semana inicia con clases de la universidad, los fines de semana sale y en las tardes-noches juega videojuegos on sus amigos. Con respeto al billar, él suele jugar con una frecuencia de 3-4 días en la ciudad de Tacna, por lo que se le considera jugador regular. Sin embargo, en Lima el desconoce locales de billar por la poca publicidad y visibilidad que estas tienen. Él nos comenta que en tacna no tiene ningun problema de reserva ya que casi siempre que va tiene mesas vacias para él y sus amigos. Tambien le gustaria que se implemente una página web donde se amplie la visibiladad de mesas de billar en Lima para asi poder jugando en sus ratos libres con sus amigos, a su vez nos comenta que las pocas veces que se acerco a un local de billar en Lima suele tener problemas de disponibilidad de mesas por lo que sería bueno una página web donde se visualice los horarios disponibles, como también imagenes referenciales de los locales para asi captar más su atención. 
+- **Edad:** 23 años
+- **Distrito:** San Miguel
+- **Duracion de la entrevista:** 4:00 minutos
+- **Resumen:** Alejadro es un estudiante universitario de medicina que le gusta estudiar, es por ello que su día a día es agitado. Él comenta que gestiona cuatro campos deportivos y enfrenta desafíos en la publicidad, dependiendo principalmente del boca a boca; le gustaría implementar una aplicación para facilitar reservas y mejorar la promoción de sus espacios. Menciona la importancia de incluir información relevante sobre la persona que realiza la reserva. Sugiere la posibilidad de tener una vista previa por Yape para confirmar la reserva. Habla sobre la importancia de recibir reportes y estadísticas para ajustar horarios y servicios disponibles. Y plantea la duda sobre cómo utilizar una plataforma promocional para los espacios deportivos. 
 
 Entrevista N°7:
 
@@ -570,28 +570,27 @@ Entrevista N°8:
 
 Entrevista N°9:
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//entrevistado9.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//AE.png" alt="UPC">
 
 - **Entrevistador:** Sebastian Frisancho
-- **Entrevistado:** Rodrigo Reyes
-- **Sexo:** Masculino
+- **Entrevistado:** Ariana Espinoza
+- **Sexo:** Femenino
 - **Edad:** 22 años
-- **Distrito:** San Miguel
-- **Duracion de la entrevista:** 7:35 minutos
-- **Resumen:** Rodrigo Reyes es un estudiante de medicina. En su dia a dia durante la semana inicia levantandose temprano para ir al hospital, por la tarde tiene clases, y en noche va al gym o sigue estudiando, los fines de semana va al gym o si se coordina con sus amigos juega futbol. Con respeto al futbol,él suele jugar con una frecuencia de 1-2 días al mes, por lo que se le considera jugador regular. Sin embargo, en Lima el desconoce locales de futbol, nos comenta que conoce un par pero fuera de su zona, por la poca publicidad y visibilidad que estas tienen. Él nos comenta que el tiempo que se demora aproximadamente para hacer el proceso de busqueda y reserva se demora aproximadante 1 hora. Tambien le gustaria que se implemente una aplicacion donde se amplie la visibilidad 
-de canchas dentro de su zona, a su vez nos comenta que hay tenido que esperar aun habiendo hecho la reserva. Para una mejorar reserva el quisiera poder visualizar sus horarios disponibles.
+- **Distrito:** Pueblo Libre
+- **Duracion de la entrevista:** 4:40 minutos
+- **Resumen:** Ariana es una estudiante universitaria que suele estudiar por las mañanas y ayudar a sus padres con la gestión de espacios deportivos por las tardes. Ella nos comenta que enfrenta desafíos con la publicidad en redes sociales, ya que no ha conseguido conseguir mayor clientela. Por ello considera útil una aplicación para ampliar su visibilidad con los jugadores, automatizar reservas y obtener estadísticas de uso.
 
 Entrevista N°10:
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//entrevistado12.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//ES.png" alt="UPC">
 
 - **Entrevistador:** Sebastian Frisancho
-- **Entrevistado:** Sebastian Pinto
+- **Entrevistado:** Estephano Sanchez
 - **Sexo:** Masculino
-- **Edad:** 21 años
-- **Distrito:** Lima
-- **duración de la entrevista:** 5:54 minutos
-- **Resumen:** Sebastian Pinto es un estudiante universitario. En su dia a dia durante la semana inicia levantandose temprano para ir al clases, por la tarde suele tenerlas libres pero ayuda en la casa, y en noche se queda estudiando o jugando videojuegos, los fines de semana si se coordina con sus amigos juega futbol. Con respeto al futbol, él suele jugar con una frecuencia de 3-4 veces al mes, por lo que se le considera jugador regular. Sin embargo, en Lima el desconoce locales de futbol por la poca publicidad y visibilidad que estas tienen. Él nos comenta que el tiempo que se demora aproximadamente para hacer el proceso de busqueda y reserva es significativo, ya que si alguien no tiene el contacto deben buscar por redes sociales y llamar para preguntar la disponibilidad. Al no estar satisfecho con la disponibilidad de sus canchas a experimentado tener que dejar de jugar por este problema. Le gustaria que se implemente una app donde se junten los anuncions de canchas en redes sociales para que se amplie la visibilidad de canchas dentro de su zona. Para una mejorar reserva el quisiera poder visualizar sus horarios disponibles. 
+- **Edad:** 22 años
+- **Distrito:** Lince
+- **duración de la entrevista:** 6:04 minutos
+- **Resumen:** : Estephano comparte su rutina diaria entre estudios y trabajo, y su pasión por el fútbol. Practica el deporte principalmente durante las vacaciones y una vez al mes, enfrentando dificultades para organizar partidos debido a horarios y ubicaciones. Él comenta que acepta la idea de una aplicación que facilite la organización de juegos y conocer a nuevos jugadores, valorando características como la ubicación de canchas, perfiles de jugadores y funciones de comunicación, para mejorar la experiencia de juego y socialización en el fútbol.
 
 Entrevista N°11:
 
@@ -617,6 +616,55 @@ Entrevista N°12:
 - **duración de la entrevista:** 6:53 minutos
 - **Resumen:**  Kevin Moscol compartió que su principal desafío radica en la gestión de los alquileres a través de WhatsApp, lo que resulta informal y poco eficiente. Expresó su interés en contar con una plataforma de reservas específica para salones de billar, lo que facilitaría enormemente la administración de su negocio. La implementación de esta plataforma no solo simplificaría la gestión de reservas, sino que también mejoraría la experiencia del cliente y aumentaría la eficiencia operativa del local de billar. Por último, él expresa su satisfacción con la idea, al recalcar que la información privada que manejaría la plataforma sería muy compensada con el servicio que estaría ofreciéndole tanto a él como propietario, como a sus clientes como consumidores.
 
+  Entrevista N°13:
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//RT.png" alt="UPC">
+
+- **Entrevistador:** Sebastian Frisancho
+- **Entrevistado:** Richard TIcona
+- **Sexo:** Masculino
+- **Edad:** 23 años
+- **Distrito:** San Miguel
+- **duración de la entrevista:** 5:59 minutos
+- **Resumen:** : Richard comparte su experiencia como administrador de un salón de billar. Discute su rutina diaria, trabajo desde casa y cómo gestiona las reservas a través de un grupo de WhatsApp y presenciales. Nos comenta que enfrenta desafíos como la gestión de reservas llenas y su publicidad. Para promocionar su negocio, utiliza redes sociales, lo que ha resultado en una buena recepción de los clientes locales. Se aborda la posibilidad de utilizar una aplicación para facilitar la promoción y gestión, destacando características como membresías y estadísticas de uso, así como soporte para situaciones de reservas simultáneas.
+
+Entrevista N°14:
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//RR.png" alt="UPC">
+
+- **Entrevistador:** Sebastian Frisancho
+- **Entrevistado:** Rodrigo Reyes
+- **Sexo:** Masculino
+- **Edad:** 23 años
+- **Distrito:** San Miguel
+- **duración de la entrevista:** 6:28 minutos
+- **Resumen:** : Rodrigo comparte su rutina diaria, incluyendo sus actividades universitarias y su afición por el fútbol. Se discute la dificultad de organizar partidos debido a la apretada agenda universitaria y la dispersión geográfica de los amigos. Rodrigo expresa su interés en una aplicación que facilite la organización de partidos y la conexión con jugadores nuevos, destacando la importancia de características como la visualización de canchas cercanas, horarios disponibles y la posibilidad de formar equipos con desconocidos. Finalmente, menciona su preferencia por una comunicación eficiente dentro de la aplicación, como un chat en tiempo real o notificaciones.
+
+  Entrevista N°15:
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//SP.png" alt="UPC">
+
+- **Entrevistador:** Sebastian Frisancho
+- **Entrevistado:** Sebastian Pinto
+- **Sexo:** Masculino
+- **Edad:** 22 años
+- **Distrito:** San Miguel
+- **duración de la entrevista:** 6:16 minutos
+- **Resumen:** : Sebastián acaba de terminar su carrera y busca un trabajo estable mientras realiza pequeños trabajos y actividades recreativas como el fútbol, su deporte preferido. En la entrevista, destaca la dificultad de organizar partidos de fútbol al medir la cantidad de personas y asegurarse de la confirmación de asistencia. Plantea la idea de una aplicación que facilite la organización de partidos, con funciones de confirmación y visualización de información sobre jugadores y canchas, y una comunicación eficiente a través de chats en tiempo real y llamadas, lo cual consideraría útil para mejorar su experiencia en la organización de eventos deportivos.
+
+  Entrevista N°16:
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//SZ.png" alt="UPC">
+
+- **Entrevistador:** Sebastian Frisancho
+- **Entrevistado:** Sebastian Zavaleta
+- **Sexo:** Masculino
+- **Edad:** 22 años
+- **Distrito:** Jesus María
+- **duración de la entrevista:** 4:19 minutos
+- **Resumen:** : Sebastián comparte su rutina entre la universidad y el hospital, y su afición por el billar, practicado una vez a la semana o cada 15 días con amigos. Expresa dificultades para organizar encuentros de juego y la necesidad de una aplicación que facilite el proceso, permitiendo conocer gente nueva y jugar en nuevos lugares. Valora la idea de tener filtros de calidad y un chat en tiempo real para una comunicación eficiente.
+
+  
 ### 2.2.3. Analisis de entrevistas
 
 <div style="text-align: justify;">
