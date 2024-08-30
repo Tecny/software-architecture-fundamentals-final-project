@@ -291,7 +291,7 @@ Nuestra startup se encuentra ante el desafío crucial de garantizar la seguridad
 
 #### 1.2.2.4. Lean UX Canvas
 <div style="text-align: justify;">
-  <img src="https://raw.githubusercontent.com/HenryCenturion/open-source-final-project//develop//informe//images//canvas.jpg" alt="UPC">
+  <img src="https://raw.githubusercontent.com//Tecny//software-architecture-fundamentals-final-project//report//report//images//CANVAS.jpg" alt="UPC">
 </div>
 
 ### 1.3. Segmentos objetivo
@@ -715,17 +715,13 @@ Las necesidades principales que hemos encontrado en nuestros segmentos objetivos
 
 <div style="text-align: justify;">
 
-**Segmento 1: Personas que le gusta el futbol**
+**Segmento 1: Personas que practica futbol y/o billar**
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//userpersona1.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//Tecny//software-architecture-fundamentals-final-project//report//report//images//jugadorpersona.png" alt="UPC">
 
-**Segmento 2: Personas que le gusta el billar** 
+**Segmento 2: Personas dueñas de un espacio de juego** 
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//userpersona2.png" alt="UPC">
-
-**Segmento 3: Personas dueñas de un espacio de juego** 
-
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//userpersona3.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//Tecny//software-architecture-fundamentals-final-project//report//report//images//propietariopersona.png" alt="UPC">
 
 </div>
 
@@ -778,15 +774,12 @@ Las necesidades principales que hemos encontrado en nuestros segmentos objetivos
 
 <div style="text-align: justify;">
 
-**User persona 1: Julian Ramos**
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//journey1.png" alt="UPC">
-
-**User persona 2: Andres Martinez**
+**User persona 1: Andres Martinez**
 
 <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//journey2.png" alt="UPC">
 
-**User persona 3: Juan Perez**
+**User persona 2: Juan Perez**
 
 <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//journey3.png" alt="UPC">
 
@@ -796,17 +789,13 @@ Las necesidades principales que hemos encontrado en nuestros segmentos objetivos
 
 <div style="text-align: justify;">
 
-**User persona 1: Julian Ramos**
+**User persona 1: Andres Martinez**
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//empathymap1.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//Tecny//software-architecture-fundamentals-final-project//report//report//images//jugadorempathy.png" alt="UPC">
 
-**User persona 2: Andres Martinez**
+**User persona 2: Juan Perez**
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//empathymap2.png" alt="UPC">
-
-**User persona 3: Juan Perez**
-
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//empathymap3.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//Tecny//software-architecture-fundamentals-final-project//report//report//images//propietarioempathy.png" alt="UPC">
 
 </div>
 
@@ -814,17 +803,13 @@ Las necesidades principales que hemos encontrado en nuestros segmentos objetivos
 
 <div style="text-align: justify;">
   
-**User persona 1: Julian Ramos**
+**User persona 1: Andres Martinez**  
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//asfut.jpg" alt="UPC">
+<img src="https://raw.githubusercontent.com//Tecny//software-architecture-fundamentals-final-project//report//report//images//ASJUGADORES.jpg" alt="UPC">
 
-**User persona 2: Andres Martinez**  
+**User persona 2: Juan Perez**
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//asbil.jpg" alt="UPC">
-
-**User persona 3: Juan Perez**
-
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//asowner.jpg" alt="UPC">
+<img src="https://raw.githubusercontent.com//Tecny//software-architecture-fundamentals-final-project//report//report//images//ASPROPIETARIOS.jpg" alt="UPC">
 
 <div style="text-align: justify;">
 
@@ -865,18 +850,14 @@ Las necesidades principales que hemos encontrado en nuestros segmentos objetivos
 ## 3.1. To-Be Scenario Mapping
 
 <div style="text-align: justify;">
-  
-**User persona 1: Julian Ramos**
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//tofut.jpg" alt="UPC">
+**User persona 1: Andres Martinez**  
 
-**User persona 2: Andres Martinez**  
+<img src="https://raw.githubusercontent.com//Tecny//software-architecture-fundamentals-final-project//report//report//images//TOJUGADORES.jpg" alt="UPC">
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//tobil.jpg" alt="UPC">
+**User persona 2: Juan Perez**
 
-**User persona 3: Juan Perez**
-
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//toowner.jpg" alt="UPC">
+<img src="https://raw.githubusercontent.com//Tecny//software-architecture-fundamentals-final-project//report//report//images//TOPROPIETARIOS.jpg" alt="UPC">
 
 </div>
 
