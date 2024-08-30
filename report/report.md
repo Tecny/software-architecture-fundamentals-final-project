@@ -770,7 +770,7 @@ Ambos segmentos muestran un fuerte interés en soluciones digitales que puedan a
 
 ## 3.3. Impact Mapping
 
-<img src="https://raw.githubusercontent.com//Tecny//software-architecture-fundamentals-final-project//develop//report//images//impactmapingg.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//Tecny//software-architecture-fundamentals-final-project//report//report//images//impactmapingg.jpg" alt="UPC">
 
 ## 3.4. Product Backlog
 
