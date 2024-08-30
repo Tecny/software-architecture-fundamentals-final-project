@@ -83,11 +83,6 @@
   | Versión | Fecha | Autor | Descripción de Modificación |
   |-|-|-|-|
   | 1.0 | 26-08-24 | Grupo Tecny | Completado los 3 primeros capitulos del informe. |
-  | 2.0|  | Grupo Tecny |  |
-  | 3.0|  | Grupo Tecny |  |
-  | 4.0|  | Grupo Tecny |  |
-  | 5.0|  | Grupo Tecny |  |
-  | 6.0|  | Grupo Tecny |  |
 
 ### Capitulos <br>
   [Capitulo I - Introduction](#i-introduccion) <br>
@@ -115,9 +110,8 @@
   - 2.3. [Needfinding](#23-needfinding)<br>
     - 2.3.1. [User Personas](#231-user-personas)<br>
     - 2.3.2. [User Task Matrix](#232-user-task-matrix)<br>
-    - 2.3.3. [User Journey Mapping](#233-user-journey-mapping)<br>
-    - 2.3.4. [Empathy Mapping](#234-empathy-mapping)<br>
-    - 2.3.5. [As-is Scenario Mapping](#235-as-is-scenario-mapping)<br>
+    - 2.3.3. [Empathy Mapping](#233-empathy-mapping)<br>
+    - 2.3.4. [As-is Scenario Mapping](#234-as-is-scenario-mapping)<br>
   
   [Capitulo III - Requirements Specification](#iii-requirements-specification)<br>
   
@@ -176,34 +170,35 @@ Tecny es una innovadora startup creada por estudiantes de la UPC de la carrera d
 
 ## 1.2. Solution Profile
 
-D'Taquito es un servicio web diseñado para simplificar el proceso de reserva de canchas de fútbol y mesas de billar en Lima Metropolitana. Con ello, los amantes del fútbol y billar pueden encontrar y reservar canchas de forma conveniente y segura, todo desde la comodidad de su navegador web.
+D'Taquito es una plataforma web diseñada para conectar a personas que desean organizar y participar en actividades deportivas, como fútbol y billar, en Lima Metropolitana. El enfoque de D'Taquito está en facilitar la creación de comunidades y fomentar la interacción entre usuarios con intereses similares, permitiendo la organización eficiente de eventos deportivos.
 
-La aplicación ofrece una serie de características principales para mejorar la experiencia del usuario. Por ejemplo, los usuarios pueden explorar una amplia selección de canchas disponibles en diferentes ubicaciones. Además, realizar una reserva es rápido y sencillo, ya que pueden hacerlo directamente desde el navegador con solo unos pocos clics.
+Los usuarios pueden crear y unirse a salas comunitarias donde se pueden coordinar partidos de fútbol o sesiones de billar. Estas salas permiten a los usuarios conectarse con otros jugadores, discutir detalles del evento, y elegir espacios deportivos según sus preferencias.
 
-D'Taquito también proporciona información detallada sobre cada cancha y salón, incluyendo fotos e instalaciones. Esto permite a los usuarios tomar decisiones informadas al elegir. Además, la página garantiza transacciones seguras y confiables mediante opciones de pago seguro integradas.
+Además, D'Taquito ofrece a los propietarios de espacios deportivos la posibilidad de promocionar sus instalaciones dentro de estas salas comunitarias, aumentando su visibilidad y potenciando las reservas de sus espacios. Los usuarios pueden explorar una variedad de canchas y salones con información detallada, lo que facilita la toma de decisiones informadas.
 
-Una de las ventajas principales de usar D'Taquito es la facilidad de uso que ofrece. Elimina la necesidad de hacer llamadas telefónicas o visitas en persona para reservar, lo que ahorra tiempo y esfuerzo a los usuarios. Además, con una amplia variedad de canchas y salones disponibles, los usuarios pueden encontrar la que mejor se ajuste a sus preferencias en términos de ubicación, precio y calidad.
+Con su interfaz intuitiva, D'Taquito simplifica la organización de actividades deportivas, eliminando la necesidad de intercambiar múltiples mensajes o realizar coordinaciones complejas fuera de la plataforma. Esto ahorra tiempo y mejora la experiencia de los usuarios al permitirles centrarse en disfrutar del deporte y la comunidad que comparten.
 
 ### 1.2.1. Antecedentes y problematica
 
 **Antecedentes:**
 
-El amor por el fútbol es una pasión arraigada en la cultura peruana, especialmente en Lima Metropolitana, donde miles de aficionados disfrutan regularmente del deporte rey en diversas canchas de la ciudad. Sin embargo, a pesar de la popularidad del fútbol, reservar canchas para jugar suele ser un proceso complicado y poco eficiente. Los jugadores enfrentan dificultades para encontrar canchas disponibles, comunicarse con los administradores de las instalaciones y asegurar horarios convenientes para sus partidos.
-Además del fútbol, el billar está ganando popularidad entre los limeños, con numerosos locales ofreciendo partidas emocionantes entre amigos o en torneos locales. Aunque menos famoso que el fútbol, el billar destaca por su accesibilidad y versatilidad, solo requiriendo una mesa y tacos. Sin embargo, el aumento en la demanda ha hecho que reservar mesas de billar sea igual de complicado que reservar canchas de fútbol en Lima Metropolitana.
+El fútbol es una pasión profundamente arraigada en la cultura peruana, especialmente en Lima Metropolitana, donde miles de aficionados disfrutan regularmente de este deporte en diversas canchas de la ciudad. A pesar de la popularidad del fútbol, reservar canchas para jugar sigue siendo un proceso complicado y poco eficiente. Los jugadores enfrentan dificultades para coordinar partidos, encontrar canchas disponibles, y asegurar horarios convenientes. Este problema se ve agravado por la falta de una plataforma centralizada que facilite la organización de partidos entre personas que compartan el mismo interés deportivo.
+Por otro lado, el billar está ganando popularidad en Lima Metropolitana, con numerosos locales ofreciendo partidas entre amigos o en torneos locales. Aunque el billar es más accesible en términos de infraestructura, la creciente demanda ha hecho que reservar mesas de billar sea tan complicado como reservar canchas de fútbol. Ambos deportes carecen de una solución eficiente para conectar a jugadores y propietarios de espacios deportivos en una sola plataforma que permita organizar encuentros de manera sencilla y efectiva.
+
 
 **Problemática:**
 
-- **What (Qué):** El problema radica en la dificultad para encontrar y reservar canchas de fútbol y mesas de billar de manera rápida y segura en Lima Metropolitana. Esta problemática afecta directamente a los aficionados al fútbol y billar que desean organizar partidos con amigos, equipos amateurs y torneos recreativos en la ciudad. La relación con la persona en cuestión es que experimentan frustración y pérdida de tiempo al tratar de asegurar un lugar donde jugar.
+- **What (Qué):** La principal problemática radica en la dificultad para encontrar y reservar canchas de fútbol y mesas de billar de manera rápida y segura en Lima Metropolitana. Los aficionados a estos deportes enfrentan frustraciones al tratar de coordinar partidos con amigos o equipos y asegurar un espacio para jugar en el momento deseado. La falta de una plataforma que centralice estas actividades complica la organización y disminuye la satisfacción del usuario.
 
-- **When (Cuándo):** El problema surge cada vez que los usuarios desean programar un partido de fútbol u obtener una mesa de billar, ya sea de manera regular o esporádica. Los clientes experimentan este problema en el momento en que intentan organizar un partido, lo que puede ocurrir en cualquier momento en que deseen jugar al fútbol o billar.
+- **When (Cuándo):** Este problema surge cada vez que los usuarios desean programar un partido de fútbol o una partida de billar, ya sea de manera regular o esporádica. Los usuarios experimentan esta dificultad especialmente en los momentos en que más desean jugar, lo que puede ser un obstáculo recurrente que afecta su capacidad de disfrutar del deporte.
 
-- **Where (Dónde):** Los clientes están generalmente en sus hogares o lugares de trabajo. El problema surge en la dificultad de encontrar canchas o salones disponibles en ubicaciones convenientes para los usuarios, lo que a menudo requiere desplazamientos innecesarios o tiempo perdido. El problema también puede surgir cuando los usuarios se encuentran en las canchas o salones y descubren que no están disponibles debido a reservas conflictivas o falta de información actualizada.
+- **Where (Dónde):** Los usuarios suelen estar en sus hogares, lugares de trabajo, o incluso en las propias instalaciones deportivas cuando experimentan problemas para encontrar y reservar canchas o mesas disponibles. La falta de información actualizada y la necesidad de desplazarse a ubicaciones inconvenientes debido a la falta de disponibilidad agravan el problema.
 
-- **Who (Quién):** Los principales involucrados son los aficionados al fútbol y al biillar que desean organizar partidos. Esta problemática afecta directamente a estos usuarios, quienes experimentan dificultades para encontrar y reservar canchas de fútbol o salones de billar.
+- **Who (Quién):** Esta problemática afecta principalmente a los aficionados al fútbol y al billar que desean organizar partidos o sesiones de juego. También impacta a los propietarios de espacios deportivos, quienes encuentran difícil promocionar sus instalaciones y asegurar reservas de manera eficiente.
 
-- **Why (Por qué):** La causa del problema radica en la falta de una plataforma centralizada y eficiente para buscar, reservar y pagar por el uso de canchas y mesas. La ausencia de un sistema unificado dificulta la organización de partidos y limita la experiencia de juego.
+- **Why (Por qué):** La causa principal del problema radica en la falta de una plataforma centralizada y eficiente para buscar, reservar y pagar por el uso de canchas y mesas. Sin un sistema unificado, la organización de partidos se vuelve caótica, limitando la experiencia de juego y causando frustración tanto en jugadores como en propietarios de espacios.
 
-- **How (Cómo):** El problema se presenta a través de las reservas de canchas de fútbol y mesas de billar en Lima Metropolitana.
+- **How (Cómo):** Este problema se manifiesta en las dificultades que los usuarios enfrentan al intentar reservar canchas de fútbol y mesas de billar en Lima Metropolitana. La falta de disponibilidad, la dificultad para encontrar compañeros de juego, y la falta de una plataforma que facilite estas interacciones son las principales manifestaciones del problema.
 
 - **How much (Cuánto):** Según Muro (2020), se presentan las siguientes estadísticas en la problemática:
 
@@ -223,71 +218,57 @@ Además del fútbol, el billar está ganando popularidad entre los limeños, con
 #### 1.2.2.1. Lean UX Problem Statements
 
 **Problem Statement 1** <br>
-Nuestra startup se enfrenta al desafío de crear una plataforma integral que simplifique y mejore el proceso de reserva de canchas de fútbol y mesas de billar en Lima Metropolitana. Nos encontramos ante la necesidad de desarrollar un sistema que permita a los usuarios encontrar fácilmente instalaciones disponibles, verificar su ubicación, conocer las características de los locales y realizar reservas de manera rápida y sencilla.
-¿Cómo podemos diseñar una plataforma digital que satisfaga las necesidades de los aficionados al fútbol en Lima Metropolitana, ofreciendo una experiencia de reserva mejorada?
+Nuestra startup se enfrenta al desafío de crear una plataforma integral que simplifique y mejore el proceso de organización de actividades deportivas en Lima Metropolitana. La plataforma debe permitir a los usuarios crear y unirse a salas para coordinar partidos de fútbol o sesiones de billar, facilitando la búsqueda de personas con intereses similares, la selección de espacios deportivos, y la comunicación efectiva dentro de la comunidad. ¿Cómo podemos diseñar una plataforma digital que no solo simplifique la organización de actividades deportivas, sino que también fomente la creación de una comunidad activa y conectada entre aficionados al fútbol y billar en Lima Metropolitana?
 
 **Problem Statement 2** <br>
-Nuestra startup se encuentra ante el desafío crucial de garantizar la seguridad y la integridad del proceso de reserva de canchas de fútbol y mesas de billar en Lima Metropolitana, así como de asegurar los pagos realizados a través de nuestra plataforma. Esto debido a que estamos en un entorno donde el temor a ser estafado durante transacciones en línea es una preocupación creciente entre los usuarios
-¿Cómo podemos diseñar una plataforma digital que no solo simplifique el proceso de reserva, sino que también brinde confianza y seguridad a los usuarios en cada paso del camino?
+Nuestra startup se encuentra ante el desafío crucial de garantizar la confianza y seguridad en la interacción entre los usuarios que organizan y se unen a actividades deportivas a través de nuestra plataforma. Dado que la creación de conexiones y la promoción de espacios deportivos son aspectos clave, es vital asegurar que la experiencia sea segura y confiable para todos los involucrados. ¿Cómo podemos diseñar una plataforma digital que no solo simplifique la organización de encuentros deportivos, sino que también brinde un entorno seguro y confiable donde los usuarios puedan interactuar y conectar con confianza?
 
 #### 1.2.2.2. Lean UX Assumptions
 
 **Business Outcomes**
 
-1. Reducir el tiempo de proceso de reserva en un 22%
-2. Aumentar las reservas de los espacios deportivos en un 13% en los próximos 6 meses
-3. Incrementar la satisfacción del cliente en un 15% en el próximo año, el cual se conocerá mediante encuestas
-4. Aumento significativo en el número de reservas mensuales, reflejando una mayor participación de los usuarios en actividades deportivas.
-5. Mejora en la satisfacción del cliente, medida a través de encuestas de retroalimentación y reseñas positivas en la plataforma.
-6. Incremento en la tasa de retención de usuarios, demostrando la fidelización de los clientes a largo plazo.
-7. Mayor visibilidad y reconocimiento de marca en la comunidad de aficionados del fútbol y billar de Lima Metropolitana.
-8. Reducción de la tasa de cancelación de reservas gracias a procesos de reserva más transparentes y flexibles.
-9. Incremento en la utilización de las instalaciones deportivas asociadas, lo que resulta en una mejor eficiencia y rentabilidad para los proveedores de canchas.
-10. Expansión de la base de usuarios a través de campañas de marketing efectivas y estrategias de adquisición de clientes.
-11. Establecimiento de asociaciones estratégicas con proveedores de servicios deportivos y organizaciones locales para aumentar la disponibilidad de opciones de reserva.
-12. Implementación de medidas de seguridad y protección de datos efectivas para garantizar la confianza de los usuarios en la plataforma.
-13. Generación de ingresos consistentes a través de comisiones por reservas y opciones de monetización adicionales, como publicidad y patrocinios.
-14. Contribución positiva al bienestar general de la comunidad al fomentar un estilo de vida activo y saludable entre los residentes de Lima Metropolitana.
+1. Reducir el tiempo de proceso de organización de actividades deportivas
+2. Incrementar la participación en las salas comunitarias.
+3. Aumentar la satisfacción del usuario medido a través de encuestas de feedback.
+4. Promover la creación de una comunidad activa, aumentando el número de usuarios registrados y activos en la plataforma.
+5. Mejorar la visibilidad de los espacios deportivos, incrementando las reservas en un debido a la promoción dentro de las salas.
+6. Incrementar la retención de usuarios mediante una experiencia de usuario fluida y conectada.
+7. Reducir la tasa de cancelación de actividades organizadas mediante la implementación de salas y un sistema de comunicación eficiente.
+8. Aumentar la utilización de las instalaciones deportivas asociadas.
+9. Expandir la base de usuarios mediante campañas de marketing centradas en la comunidad y la promoción de espacios deportivos.
+10. Establecer asociaciones estratégicas con proveedores de espacios deportivos y organizaciones locales.
+11. Aumentar la confianza del usuario mediante la implementación de medidas de seguridad y protección de datos robustas, reduciendo las preocupaciones de seguridad según encuestas de usuario
 
 **User Outcomes**
-1. Los rentores ahorran su tiempo en el proceso de reserva debido a que no deben esperar la respuesta del propietario
-   
-3. Los propietarios obtienen más visibilidad de sus espacios de juego
-   
-4. ¿Quién será nuestro usuario principal al reservar canchas de fútbol o mesas de billar en Lima Metropolitana? 
-   - Nuestro usuario principal puede ser un rupos de amigos o jugadores individuales que buscan reservar para partidos recreativos
-     
-5. ¿Dónde encajará nuestro producto en la vida diaria de nuestros usuarios?
-   - Nuestro producto encajará en la vida diaria de nuestros usuarios durante sus momentos de ocio, la planificación de eventos deportivos o de manera espontánea cuando deseen jugar.
 
-6. ¿Cuáles son los principales problemas que enfrentan nuestros usuarios al utilizar nuestro producto para reservar? ¿Cómo podemos abordar estos problemas para mejorar la experiencia del usuario?
-   - Los problemas pueden incluir falta de disponibilidad de canchas o salones, dificultad para encontrar instalaciones adecuadas y procesos de reserva complicados. Podemos mejorar la experiencia del usuario asegurando la disponibilidad en tiempo real, simplificando el proceso de reserva y proporcionando información detallada sobre las instalaciones.
+1. Los usuarios ahorran tiempo en el proceso de organización de actividades deportivas gracias a la creación de salas comunitarias, sin necesidad de esperar respuestas de otros participantes o propietarios de espacios.
+2. Los usuarios pueden descubrir nuevas conexiones y ampliar su red social al unirse a salas comunitarias que reúnen personas con intereses deportivos similares.
+3. Los usuarios se sienten parte de una comunidad activa y conectada, aumentando su satisfacción y compromiso con la plataforma.
+4. Los propietarios de espacios deportivos obtienen mayor visibilidad y promoción de sus instalaciones debido a su inclusión en las salas creadas por los usuarios, incrementando su tasa de reservas.
+5. Los usuarios encuentran con facilidad espacios deportivos disponibles y coordinan actividades sin complicaciones, lo que mejora la experiencia de juego.
+6. Los propietarios de espacios deportivos ven un incremento en la eficiencia y rentabilidad de sus instalaciones debido a la mayor visibilidad y organización a través de la plataforma.
 
-7. ¿Cómo y con qué frecuencia nuestros usuarios usarán nuestro producto para reservar?
-   - Nuestros usuarios pueden utilizar el producto principalmente durante los fines de semana o de manera ocasional para organizar partidos con amigos o equipos.
-
-8. ¿Qué características son consideradas imprescindibles por nuestros usuarios al reservar?
-   - Características como la disponibilidad en tiempo real, facilidad de reserva, opciones de pago seguras y una variedad de instalaciones son aspectos prioritarios para nuestros usuarios.
-
-9. ¿Cómo debería visualmente nuestro producto para que sea atractivo y fácil de usar para nuestros usuarios?
-   - Nuestro producto debe tener un diseño intuitivo, limpio y atractivo visualmente, con una interfaz fácil de navegar y características claramente identificables.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-1. Creemos que reducir los tiempos de proceso de reserva en un 22% se logrará si las personas que juegan fútbol obtienen el beneficio de ahorrar su tiempo en el proceso de reserva al no tener que esperar la respuesta del propietario mediante una interfaz intuitiva y rápida que simplifique el proceso de reserva
-2. Creemos que aumentar las reservas de los espacios deportivos en un 13% en los próximos 6 meses se logrará si los propietarios de un espacio de juego obtienen el beneficio de mayor visibilidad de sus espacios de juego mediante la capacidad de agregar sus espacios de juego en la aplicación web para ser alquilados
-3. Si simplificamos el proceso de reserva a través de una interfaz de usuario intuitiva y fácil de usar, entonces aumentaremos la tasa de conversión de visitantes a reservas.
-4. Si proporcionamos información detallada y actualizada sobre la disponibilidad, entonces reduciremos la frustración del usuario y aumentaremos la satisfacción.
-5. Si implementamos un sistema de notificaciones automáticas sobre la disponibilidad de canchas, entonces aumentaremos la probabilidad de que los usuarios completen una reserva.
-6. Si ofrecemos opciones de reserva flexibles, como horarios personalizados y servicios adicionales, entonces aumentaremos la retención de usuarios y fomentaremos la fidelidad.
-7. Si establecemos asociaciones con proveedores de servicios deportivos de alta calidad, entonces mejoraremos la reputación y confianza de nuestra plataforma entre los usuarios.
-8. Si optimizamos la experiencia de reserva para dispositivos móviles, entonces aumentaremos la conveniencia y accesibilidad para los usuarios que buscan reservar canchas mientras están en movimiento.
-9. Si permitimos que los usuarios califiquen y comenten sobre las instalaciones deportivas, entonces proporcionaremos información valiosa para otros usuarios y mejoraremos la transparencia en la plataforma.
-10. Si implementamos un sistema de recompensas o descuentos por reservas frecuentes, entonces incentivaremos la repetición de uso y la participación activa de los usuarios.
-11. Si realizamos pruebas en diferentes aspectos de la plataforma, como la disposición de la información o el diseño de los botones de reserva, entonces identificaremos las mejores prácticas para mejorar la experiencia del usuario.
-12. Si integramos un sistema de pago seguro y confiable, entonces aumentaremos la confianza de los usuarios y reduciremos la tasa de abandono durante el proceso de reserva.
-13. Si proporcionamos opciones de filtrado avanzadas, como búsqueda por ubicación, tipo de superficie de juego y servicios adicionales, entonces mejoraremos la relevancia de los resultados para los usuarios.
-14. Si optimizamos el proceso de reserva para que sea lo más rápido posible, con un mínimo de pasos necesarios, entonces reduciremos la fricción y aumentaremos la tasa de conversión de visitantes a reservas completadas.
+1. Creemos que reducir los tiempos de organización de actividades se logrará si los usuarios pueden crear y unirse a salas comunitarias de manera rápida mediante una interfaz intuitiva y eficiente.<br>
+Sabremos que estamos en lo cierto<br> 
+Cuando observemos una disminución en el tiempo promedio que los usuarios tardan en organizar actividades dentro de la plataforma.
+2. Creemos que incrementar la participación en las salas comunitarias se logrará si los usuarios encuentran fácil la creación de conexiones y la organización de actividades a través de salas personalizadas.<br>
+Sabremos que estamos en lo cierto<br>
+Cuando notemos un aumento en la cantidad de usuarios que crean y se unen a salas comunitarias en un período determinado.
+3. Creemos que aumentar la satisfacción del usuario se logrará si proporcionamos una experiencia de usuario conectada y fluida que facilite la organización de actividades y la creación de comunidades.<br>
+Sabremos que estamos en lo cierto <br>
+Cuando obtengamos retroalimentación positiva de los usuarios y un mayor índice de satisfacción en encuestas post-uso.
+4. Creemos que mejorar la visibilidad de los espacios deportivos y aumentar las reservas se logrará si los propietarios pueden promocionar sus instalaciones dentro de las salas comunitarias de manera efectiva.<br>
+Sabremos que estamos en lo cierto <br>
+Cuando observemos un aumento en la cantidad de reservas realizadas a través de la plataforma y mayor visibilidad de los espacios en la aplicación.
+5. Creemos que incrementar la retención de usuarios se logrará si proporcionamos opciones de organización flexibles y una experiencia de usuario fluida.<br>
+Sabremos que estamos en lo cierto <br>
+Cuando veamos un mayor porcentaje de usuarios recurrentes que continúan utilizando la plataforma para organizar actividades.
+6. Creemos que aumentar la utilización de las instalaciones deportivas se logrará si facilitamos la organización de actividades a través de salas comunitarias que conecten usuarios con espacios deportivos.<br>
+Sabremos que estamos en lo cierto <br>
+Cuando notemos un incremento en el uso regular de las instalaciones deportivas por parte de los usuarios conectados a través de la plataforma.
 
 #### 1.2.2.4. Lean UX Canvas
 <div style="text-align: justify;">
@@ -296,50 +277,35 @@ Nuestra startup se encuentra ante el desafío crucial de garantizar la seguridad
 
 ### 1.3. Segmentos objetivo
 
-**Segmento objetivo 1: Personas que juegan futbol**
+**Segmento objetivo 1: Personas que practican fútbol y/o billar**
   - Aspectos demográficos:
     - Sexo: Hombres.
-    - Edades: De 15 a 45 años.
-    - Nivel Socioeconómico: Medio y medio-alto.
+    - Edades: De 18 a 55 años.
+    - Nivel socioeconómico: Medio y medio-alto.
 
   - Aspectos geográficos:
     - Nacionalidad: Residentes en Lima, Perú.
-    - Zona Geográfica: Área Metropolitana de Lima
+    - Zona geográfica: Área Metropolitana de Lima
     - Departamento: Lima Metropolitana.
 
   - Aspectos psicográficos:
     - Intereses: Aficionados al fútbol, tanto jugadores como espectadores.
-    - Estilo de Vida: Activo y deportivo.
+    - Estilo de vida: Activo y deportivo.
 
-**Segmento objetivo 2: Personas que juegan billar**  
-  - Aspectos demográficos:
-    -	Sexo: Hombres y mujeres.
-    - Edades: De 15 a 45 años.
-    - Nivel Socioeconómico: Medio y medio-alto.
-
-  - Aspectos geográficos:
-    - Nacionalidad: Residentes en Lima, Perú.
-    - Zona Geográfica: Área Metropolitana de Lima.
-    - Departamento: Lima Metropolitana.
-
-  - Aspectos psicográficos:
-    - Intereses: Aficionados al billar, tanto jugadores como espectadores.
-    - Estilo de Vida: Activo y deportivo.
-
-**Segmento objetivo 3: Personas dueñas de un espacio de juego**
+**Segmento objetivo 2: Personas dueñas de un espacio deportivo**
   - Aspectos demográficos:
     -	Sexo: Hombres y mujeres.
     - Edades: De 25 a 60 años.
-    - Nivel Socioeconómico: Medio-alto y Alto.
+    - Nivel socioeconómico: Medio-alto y Alto.
 
   - Aspectos geográficos:
     - Nacionalidad: Residentes en Lima, Perú.
-    - Zona Geográfica: Área Metropolitana de Lima.
+    - Zona geográfica: Área Metropolitana de Lima.
     - Departamento: Lima Metropolitana.
 
   - Aspectos psicográficos:
     - Intereses: Administradores de espacios de juego.
-    - Estilo de Vida: Activo para hacer negocios.
+    - Estilo de vida: Activo para hacer negocios.
 
 # II. Requirements Analysis
 
@@ -395,32 +361,34 @@ Estrategias:
 - ¿Cuál es tu estado civil?
 - ¿Tienes profesión o estudias?
 - ¿Cómo suele ser tu día a día?
+- ¿Practicas algún deporte? Si es así, ¿cuál? (solo si es jugador)
+- Eres administrador de algún espacio deportivo? Si es así, ¿de cuáles deportes? (solo si es propietario)
 
-**Para segmento 1 y 2:**
+**Para segmento 1:**
 
-- ¿Con qué frecuencia juegas al fútbol(o billar) y cuánto tiempo dedicas a buscar una cancha disponible?
-- ¿Qué métodos utilizas generalmente para encontrar una cancha de fútbol(o billar)? (por ejemplo, aplicaciones móviles, redes sociales, páginas web, contactos personales, etc.)
-- ¿Cuáles son los principales desafíos que enfrentas al intentar reservar una cancha de fútbol(o mesa de billar)?
-- ¿Has experimentado problemas de disponibilidad o congestión en las canchas de fútbol en tu área(o salon de billar)? ¿Podrías describirlos?
-- ¿Cuál es tu opinión sobre la accesibilidad de las canchas de fútbol(o salon de billar) en términos de ubicación, disponibilidad de horarios y costos?
-- ¿Qué tan satisfecho estás con las opciones de canchas de fútbol(o salones de billar) disponibles en tu comunidad?
-- ¿Cómo crees que se podría mejorar el proceso de reserva de canchas de fútbol(o mesas de billar) para hacerlo más conveniente y accesible?
-- ¿Has considerado alguna vez abandonar la búsqueda de una cancha de fútbol(o mesa de billar) debido a la dificultad para encontrar una disponible? Si es así, ¿qué te llevó a tomar esa decisión?
-- ¿Existen barreras específicas que te impidan disfrutar plenamente del fútbol(o billar) debido a la falta de canchas(o mesas de billar) disponibles?
-- ¿Qué sugerencias tienes para mejorar la infraestructura de las canchas de fútbol(o salones de billar) o la gestión de su reserva para hacerlas más accesibles para todos los jugadores?
+- ¿Con qué frecuencia juegas fútbol o billar?
+- ¿Con quienes sueles jugar tus partidas de fútbol o billar?
+- ¿Cómo sueles organizar tus partidas actualmente? ¿Utilizas alguna red social para organizarlas? Si es así, ¿cuál y por qué?
+- ¿Qué dificultades enfrentas al intentar organizar un partido de fútbol o billar?
+- ¿Qué aspectos te frustran más al usar las plataformas actuales al momento de organizar tus partidos?
+- ¿Qué opinas sobre una aplicación que te ayude a organizar tus partidos de fútbol o billar y conocer gente nueva con quien jugar?
+- ¿Qué funciones te gustaría ver en una aplicación que te ayude a organizar tus actividades deportivas?
+- ¿Qué tipo de información sobre otros jugadores o las salas te gustaría poder ver antes de unirte?
+- ¿Cómo te gustaría que se manejara la comunicación dentro de la aplicación (chat en tiempo real, notificaciones, etc.)?
 
-**Para segmento 3:**
+**Para segmento 2:**
 
-- ¿Qué los motivó a abrir o administrar un espacio de juego como una cancha de fútbol o un salón de billar?
-- ¿Cuáles son los servicios y facilidades que ofrecen en su local? (número de canchas, tipos de mesas de billar, otros juegos disponibles, etc.)
-- ¿Cómo gestionan actualmente las reservas y la programación de sus espacios de juego?
-- ¿Cuáles son los principales desafíos que enfrentan al gestionar las reservas y la operación diaria de su local?
-- ¿Qué características consideran más importantes en una plataforma de reserva en línea para su negocio? (por ejemplo, facilidad de uso, disponibilidad de horarios en tiempo real, opciones de pago, etc.)
-- ¿Han utilizado alguna plataforma de reserva en línea antes? ¿Qué les gustó y qué les gustaría mejorar de esas experiencias?
-- ¿Qué tipo de información les gustaría tener acceso en una plataforma de reserva? (por ejemplo, datos de clientes, estadísticas de uso, etc.)
-- ¿Tienen algún requisito específico en cuanto a la gestión de pagos y facturación dentro de la plataforma?
-- ¿Cómo prefieren recibir soporte técnico y atención al cliente? (por ejemplo, correo electrónico, chat en vivo, teléfono, etc.)
-- ¿Tienen alguna preocupación en cuanto a la seguridad y privacidad de la información de sus clientes al utilizar una plataforma en línea?
+- ¿Cuántos espacios deportivos tienes disponibles?
+- ¿Cómo manejas actualmente las reservas para tus espacios deportivos?
+- ¿Qué problemas enfrentas en la promoción y llenado de tus espacios deportivos?
+- ¿Cómo promocionas actualmente tus espacios deportivos para atraer jugadores?
+- ¿Qué medios utilizas para llegar a nuevos clientes (redes sociales, publicidad, etc.)?
+- ¿Cómo ha sido tu experiencia promocionando tus espacios deportivos?
+- ¿Qué te motivaría a usar una aplicación para promocionar tus espacios deportivos?
+- ¿Qué características te gustaría que la aplicación ofreciera para facilitar la gestión de tus reservas?
+- ¿Qué tipo de reportes o estadísticas te gustaría recibir sobre el uso de tus espacios deportivos a través de la aplicación?
+- ¿Qué dudas o preocupaciones tendrías al usar una nueva plataforma para la promoción de tus espacios deportivos?
+- ¿Qué tipo de soporte o asistencia esperas recibir de la plataforma en caso de problemas o inconvenientes?
 
 
 </div>
@@ -630,86 +598,25 @@ Entrevista N°14:
 
 **Segmento 1:**
 
-Las entrevistas realizadas a personas aficionadas al fútbol nos revelan una serie de desafíos comunes en la reserva de canchas. Nuestros entrevistados, Patrizio, Sebastián y Adriano, coinciden en la dificultad para coordinar horarios con amigos y la informalidad del proceso de reserva, a menudo realizado a través de WhatsApp. Todos expresan interés en soluciones tecnológicas que simplifiquen este proceso, como aplicaciones móviles o páginas web que permitan ver la disponibilidad de horarios y reservar de manera eficiente. La calidad y el precio de las canchas también son aspectos importantes para ellos. En resumen, hay una clara necesidad de mejorar la organización y accesibilidad en la reserva de canchas, lo que presenta una oportunidad para desarrollar una solución tecnológica que satisfaga estas demandas y mejore la experiencia de los jugadores.
+Los entrevistados enfrentan problemas de coordinación para organizar actividades deportivas, debido a la falta de coincidencia de horarios y la ineficiencia de las redes sociales para estas gestiones. Hay un fuerte deseo de una herramienta que simplifique la organización y brinde visibilidad en tiempo real de la disponibilidad de espacios deportivos. Además, la calidad de las instalaciones es crucial, con énfasis en la buena infraestructura y equipamiento. La seguridad y la construcción de una comunidad confiable también son importantes, destacando la necesidad de una solución digital que agilice las reservas y fomente la conexión entre jugadores.
+
+Además, los entrevistados expresan frustración por la falta de disponibilidad y la congestión de horarios en los salones de billar y canchas de fútbol, lo que afecta su capacidad para disfrutar de estos deportes de manera regular. También mencionan la importancia de contar con opciones económicas y bien ubicadas. La posibilidad de unir a personas que comparten los mismos intereses deportivos es vista como una ventaja, ya que permitiría no solo facilitar la organización, sino también expandir su círculo social y mejorar la experiencia general de juego. Una solución digital que permita gestionar estos aspectos de manera integral sería muy valorada por los usuarios.
 
 **Segmento 2:**
 
-Las entrevistas realizadas a personas aficionadas al billar nos revelan una serie de desafíos comunes en la reserva de mesas en los salones billar. Las entrevistas con GianPaul y Luis, quienes comparten un interés en el billar, suelen jugar seguido este deporte y nos comparten sus experiencias con las reservas. Todos coinciden en las dificultades para encontrar salones cercanos con horarios disponibles, lo que genera frustración. Nuestros entrevistas sugieren el uso de una aplicación web para simplificar el proceso de reserva y valoran la calidad del equipamiento y la infraestructura de los salones. Además, se resalta la importancia de fomentar una comunidad en el billar permitiendo que otros jugadores se unan a las mesas. Estos hallazgos subrayan la oportunidad de desarrollar una solución tecnológica que mejore la experiencia de reserva y promueva la interacción social en torno al billar.
+Los dueños de espacios deportivos, como canchas de fútbol y salones de billar, enfrentan desafíos significativos en la gestión y promoción de sus instalaciones. La mayoría depende del boca a boca y las redes sociales para atraer clientes, lo cual resulta insuficiente para mantener una ocupación constante. La falta de herramientas eficientes para organizar horarios y gestionar reservas es una preocupación común, y muchos expresan interés en una plataforma digital que no solo facilite la administración de estas tareas, sino que también mejore la visibilidad de sus espacios y automatice el proceso de reservas. Además, la inclusión de opciones como pagos anticipados, estadísticas de uso, y la visualización de horarios y servicios ofrecidos son vistas como características esenciales para optimizar la operación de sus negocios.
 
-**Segmento 3:**
-
-Tanto Luis Diego, estudiante de la UPC, como Rodrigo Salas, estudiante de administración, enfrentan desafíos en la gestión de sus actividades. Luis Diego busca mejorar la accesibilidad a los locales de billar en Lima mediante una página web que muestre horarios y fotos de los locales, mientras que Rodrigo busca una solución similar para administrar los horarios y precios de su negocio de alquiler de espacios recreativos. Ambos reconocen la importancia de una plataforma digital para optimizar la gestión de sus actividades y mejorar la experiencia de sus clientes.
-
+Estos propietarios también destacan la importancia de conocer a sus clientes y recibir información relevante sobre quienes realizan las reservas, lo que podría ayudarles a personalizar sus servicios y mejorar la experiencia del usuario. Una plataforma que les permita ajustar horarios según la demanda, promocionar ofertas especiales, y ampliar su alcance a nuevos clientes sería de gran valor para su negocio, facilitando la toma de decisiones informadas y mejorando la gestión de sus instalaciones deportivas.
 
 **Conclusiones:**
 
-Basándonos en las entrevistas realizadas a personas aficionadas tanto al fútbol como al billar, queda claro que existe una demanda significativa de mejorar el proceso de reserva mediante soluciones tecnológicas. Tanto los jugadores de fútbol como los aficionados al billar expresan frustración por la dificultad para encontrar disponibilidad de horarios y la informalidad en el proceso de reserva, que a menudo implica comunicación directa con los propietarios a través de aplicaciones de mensajería.
+Los usuarios y propietarios de espacios deportivos comparten una necesidad común de simplificar y mejorar la organización y gestión de actividades deportivas. Los jugadores de fútbol y billar enfrentan dificultades en la coordinación con sus amigos, la reserva de horarios, y la disponibilidad de espacios adecuados, lo que genera frustración y limita su experiencia deportiva. De manera similar, los propietarios de estos espacios luchan con la promoción efectiva y la gestión de reservas, lo que afecta la ocupación de sus instalaciones y su capacidad para atraer nuevos clientes.
 
-La potencial solución a estos problemas es el desarrollo de una aplicación web, el cual es D'Taquito, que permita a los usuarios ver la disponibilidad de canchas de fútbol o mesas de billar en tiempo real y realizar reservas de manera rápida y eficiente. Además, se destaca la importancia de incluir filtros que ayuden a los usuarios a encontrar opciones adecuadas según sus preferencias, como la calidad del equipamiento, la ubicación y el precio.
-
-La creación de una comunidad en torno al deporte, tanto en el fútbol como en el billar, es otro aspecto importante a considerar. Permitir que otros jugadores se unan a las mesas o canchas reservadas puede fomentar la interacción social y mejorar la experiencia general de los usuarios.
-
-En resumen, las entrevistas sugieren que desarrollar una aplicación web de reservas para deportes como el fútbol y el billar sería una solución efectiva para abordar las necesidades y preocupaciones de los aficionados, mejorando así su experiencia y promoviendo una mayor participación.
-
-**Analisis estadistico respecto a las respuestas de las entrevistas:**
-
-1. **Métodos de reserva**:
-
-En esta sección, exploraremos las preferencias de los entrevistados en cuanto a los métodos utilizados para realizar reservas en establecimientos de entretenimiento y deportivos. Analizaremos el grado de adopción de métodos digitales como WhatsApp, redes sociales del establecimiento y plataformas de reserva en línea, así como la prevalencia de métodos tradicionales como la gestión manual.
-
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//grafico-estadistico.png" alt="UPC" width="400" height="300">
-
-2. **Problemas comunes con las reservas**:
-
-Esta sección aborda los desafíos recurrentes identificados por los entrevistados al intentar reservar espacios en establecimientos de entretenimiento y deportivos. Se explorarán los obstáculos más comunes, como la dificultad para encontrar horarios disponibles, las cancelaciones de reservas por parte del establecimiento y otros problemas relacionados con la disponibilidad y organización.
-
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//grafico-estadistico2.png" alt="UPC" width="400" height="300">
-
-3. **Necesidades de mejora en el proceso de reserva**:
-
-En esta parte, examinaremos las áreas específicas en las que los entrevistados creen que se pueden realizar mejoras en el proceso de reserva. Se destacarán las necesidades y expectativas de los usuarios, como la visualización de horarios en tiempo real, una experiencia de reserva rápida y sencilla, así como la transparencia en cuanto a precios, servicios ofrecidos y el estado de las instalaciones.
-
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//grafico-estadistico3.png" alt="UPC" width="400" height="300">
-
-4. **Preferencias sobre la plataforma de reserva**:
-
-Aquí se presentarán las preferencias expresadas por los entrevistados en cuanto a las características deseadas en una plataforma de reserva ideal. Se explorarán aspectos como la seguridad de los datos del cliente, la eficiencia del soporte técnico, las opciones de pago seguras y la utilidad de la recopilación de datos de usuarios para mejorar la experiencia y la gestión interna.
-
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//grafico-estadistico4.png" alt="UPC" width="400" height="300">
-
-5. **Necesidades específicas según el tipo de establecimiento**:
-
-Esta sección se centrará en las necesidades y preocupaciones específicas identificadas por los entrevistados según el tipo de establecimiento en el que trabajan o tienen experiencia. Se examinarán las diferencias en las expectativas y desafíos entre propietarios o administradores de salones de billar, centros de fútbol, alquiler de canchas de fútbol y locales de recreación con varias opciones de entretenimiento.
-
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//grafico-estadistico5.png" alt="UPC" width="400" height="300">
-
-**Resumen respecto a los datos**
-
-|**Cuadro estadístico**||
-| :-: | :- |
-|**Métodos de reserva:**|El 81% de los entrevistados prefieren utilizar WhatsApp como método para realizar reservas, mientras que el 14% opta por las redes sociales del establecimiento y otro 5% considera útil una plataforma de reserva en línea. Esto significa que los métodos digitales abarcan el 100% de las preferencias.|
-|**Problemas comunes con las reservas:**|El 50% de los entrevistados reportan dificultades para encontrar horarios disponibles al momento de reservar. Por otro lado, el 33% ha experimentado cancelaciones de reservas por parte del establecimiento. Pero sobre todo, el 80% señala la falta de organización en el proceso de reserva como problemas comunes.|
-|Necesidades de mejora en el proceso de reserva:|El 81% de los entrevistados expresan la necesidad de una plataforma que les permita ver los horarios disponibles en tiempo real. Además, el 65% destaca la importancia de una reserva rápida y sencilla. Por otro lado, un 23% de los encuestados menciona la importancia de conocer los precios y servicios ofrecidos, mientras que un tercio sugiere incluir detalles sobre el estado de las instalaciones en la plataforma de reserva.|
-|**Preferencias sobre la plataforma de reserva:**|El 40% de los entrevistados valora la seguridad de los datos del cliente, mientras que otro 25% destaca la importancia de un soporte técnico eficiente. Además, otro 25% menciona la necesidad de opciones de pago seguras, y un 10% expresa interés en la recopilación de datos de usuarios para mejorar la experiencia y la gestión interna|
-|**Necesidades específicas según el tipo de establecimiento:**|El 59% de los usuarios propietarios tienen canchas de futbol mientras que el otro 41 tienen salones de billar|
-
+Ambos segmentos muestran un fuerte interés en soluciones digitales que puedan automatizar y facilitar estos procesos. Los jugadores buscan una plataforma que les permita coordinar con facilidad, encontrar disponibilidad en tiempo real y unirse a comunidades deportivas. Por otro lado, los propietarios necesitan herramientas que optimicen la administración de horarios, mejoren la visibilidad de sus espacios, y proporcionen información valiosa sobre el uso de sus instalaciones. Una solución que combine estas funcionalidades podría atender las necesidades clave de ambos grupos, mejorando la experiencia general y la eficiencia en la organización de actividades deportivas.
 
 </div>
 
 ## 2.3. Needfinding
-
-<div style="text-align: justify;">
-
-Las necesidades principales que hemos encontrado en nuestros segmentos objetivos son las siguientes:
-
-- Diseñar un sistema óptimo de reservas que permita ver la disponibilidades de horarios en tiempo real a los usuarios.
-- Mostrar información acerca de los establecimientos, esto permite dar a conocer los detalles de donde jugarán a los usuarios.
-- Solo afiliarnos a establecimientos que tengan buena calidad para garantizar el bienestar de los usuarios.
-- Agregar filtros para la rápida busca de locales según preferencias del usuario.
-- Desarrollar la posibilidad de crear una comunidad para que otras personas puedan ingresar a jugar si se presentan inconvenientes.
-- Los propietarios de un espacio de juego podrán añadir sus locales a la aplicación web para así gestionarlos
-
-</div>
 
 ### 2.3.1. User Personas
 
@@ -719,7 +626,7 @@ Las necesidades principales que hemos encontrado en nuestros segmentos objetivos
 
 <img src="https://raw.githubusercontent.com//Tecny//software-architecture-fundamentals-final-project//report//report//images//jugadorpersona.png" alt="UPC">
 
-**Segmento 2: Personas dueñas de un espacio de juego** 
+**Segmento 2: Personas dueñas de un espacio deportivo** 
 
 <img src="https://raw.githubusercontent.com//Tecny//software-architecture-fundamentals-final-project//report//report//images//propietariopersona.png" alt="UPC">
 
@@ -729,63 +636,37 @@ Las necesidades principales que hemos encontrado en nuestros segmentos objetivos
 
 <div style="text-align: justify;">
 
-**Segmento 1: Personas que le gusta el futbol**
+**Segmento 1: Personas que practica futbol y/o billar**
 
-| Actividades | Frecuencia | Importancia |
-|-----------|-----------|-----------|
-| Jugar futbol con sus amigos    | Con frecuencia    | Alta    |
-| Reservar canchas de futbol mediante whatsapp    | Con frecuencia    | Alta    |
-| Seguir equipos de futbol | A veces    | Media    |
-| Entrenar tácticas de juego   | A veces    | Media    |
-| Discutir partidos y sus resultados    | A veces    | Baja    |
-| Jugar en canchas de buena calidad   | Rara vez    | Alta    |
-| Esperar para reservar una cancha | Con frecuencia    | Media    |
-| Ponerse de acuerdo con sus amigos para reservar    | Con frecuencia    | Alta    |
+| Actividades                                           | Frecuencia | Importancia |
+|-------------------------------------------------|------------|-------------|
+| Buscar espacios deportivos disponibles en la ciudad | Alta       | Alta        |
+| Consultar con amigos sobre su disponibilidad de juego | Alta       | Alta        |
+| Revisar horarios de los espacios deportivos      | Media      | Alta        |
+| Coordinar con amigos para formar un grupo de juego | Alta       | Alta        |
+| Comunicarse con los propietarios para reservar   | Media      | Media       |
+| Visitar físicamente los espacios deportivos para conocerlos | Baja       | Media       |
+| Decidir entre varias opciones de espacios deportivos | Media      | Alta        |
+| Realizar pagos de reserva en persona             | Baja       | Media       |
 
 
-**Segmento 2: Personas que le gusta el billar**
+**Segmento 2: Personas dueñas de un espacio deportivo**
 
-| Actividades | Frecuencia | Importancia |
-|-------------|------------|-------------|
-| Jugar billar con sus amigos | Con frecuencia | Alta |
-| Reservar mesas de billar mediante whatsapp | Con frecuencia | Alta |
-| Seguir competiciones de billar | A veces | Media |
-| Mejorar técnicas de juego | A veces | Media |
-| Discutir estrategias y resultados | A veces | Baja |
-| Jugar en mesas de alta calidad | Rara vez | Alta |
-| Esperar para reservar una mesa | Con frecuencia | Media |
-| Coordinarse con amigos para reservar | Con frecuencia | Alta |
+| Actividades                                            | Frecuencia | Importancia |
+|--------------------------------------------------|------------|-------------|
+| Promocionar los espacios deportivos en redes sociales | Media      | Alta        |
+| Coordinar reservas por teléfono o redes sociales | Alta       | Alta        |
+| Gestionar la disponibilidad de las instalaciones | Media      | Alta        |
+| Manejar cancelaciones y reprogramaciones         | Media      | Media       |
+| Realizar campañas de publicidad local para atraer clientes | Baja       | Media       |
+| Recolectar pagos de clientes en persona o por transferencia | Media      | Media       |
+| Hacer seguimiento a la satisfacción de los clientes | Baja       | Baja        |
+| Mantener las instalaciones en condiciones óptimas | Baja       | Media       |
 
-**Segmento 3: Personas dueñas de un espacio de juego**
-
-| Actividades        | Frecuencia     | Importancia  |
-|--------------------------|----------------|--------------|
-| Registrar el local       | Baja           | Alta         |
-| Gestionar horarios       | Alta           | Alta         |
-| Administrar reservas     | Alta           | Muy alta     |
-| Acceder a informes       | Media          | Media        |
-| Configurar opciones de pago | Baja         | Alta         |
-| Ofrecer promociones      | Media          | Media        |
-| Recibir y responder a comentarios | Media | Alta     |
 
 </div>
 
-### 2.3.3. User Journey Mapping
-
-<div style="text-align: justify;">
-
-
-**User persona 1: Andres Martinez**
-
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//journey2.png" alt="UPC">
-
-**User persona 2: Juan Perez**
-
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//journey3.png" alt="UPC">
-
-</div>
-
-### 2.3.4. Empathy Mapping
+### 2.3.3. Empathy Mapping
 
 <div style="text-align: justify;">
 
@@ -799,7 +680,7 @@ Las necesidades principales que hemos encontrado en nuestros segmentos objetivos
 
 </div>
 
-### 2.3.5. As Is Scenario Mapping
+### 2.3.4. As Is Scenario Mapping
 
 <div style="text-align: justify;">
   
@@ -810,40 +691,6 @@ Las necesidades principales que hemos encontrado en nuestros segmentos objetivos
 **User persona 2: Juan Perez**
 
 <img src="https://raw.githubusercontent.com//Tecny//software-architecture-fundamentals-final-project//report//report//images//ASPROPIETARIOS.jpg" alt="UPC">
-
-<div style="text-align: justify;">
-
-- **Reservacion**:
-   - Acto de reservar una instalación deportiva, como una cancha de fútbol o una mesa de billar, para una fecha y hora específicas.
-
-- **Rentor**:
-   - Persona que interactúa con el sistema de reservas para reservar un espacio deportivo.
-
-- **Propietario**:
-   - Persona que es dueña de un espacio deportivo y pone a disposición su local para su alquiler.
-
-- **Confirmacion**:
-   - Reconocimiento o verificación de que se ha realizado una reserva con éxito.
-
-- **Espacio deporivo**:
-   - Área deportiva para recreación de los rentores, pueden ser de fútbol o de billar.
-
-- **Cancelacion**:
-   - Acto de anular o revocar una reserva previamente realizada.
-     
-- **Cuenta de usuario**:
-    - Cuenta personal creada por un usuario (rentor o propietario) para gestionar sus reservas o espacios deportivos y preferencias dentro del sistema.
-
-- **Subscripción**:
-    - Agregación de privilegio a los usuarios, que les permite acceder a funciones adicionales o beneficios dentro del sistema de reservas.
-
-- **Metodo de pago**:
-    - Funcionalidad que permite a los usuarios agregar y gestionar su métodos de pago y realizar transacciones dentro del sistema.
-
-- **Perfil**:
-    - Información personal y preferencias de un usuario dentro del sistema de reservas.
-
-</div>
 
 # III. Requirements Specification
 
