@@ -718,7 +718,7 @@ Ambos segmentos muestran un fuerte interés en soluciones digitales que puedan a
 | EP04 | Gestión de suscripciones| Como propietario quiero gestionar mi suscripción para adecuarla sus beneficios según mis necesidades  | US19, US20, US21, US22 |
 | EP05 | Gestión de salas de espacios deportivos | Como propietario quiero gestionar mis espacios deportivos para la visualización a los jugadores | US23, US24, US25, US26 |
 | EP06 | Elementos de landing page | Como visitante quiero visualizar el contenido resaltante de una landing page para conocer sobre la aplicación web | US30, US31 |
-| EP07 | Implementación de las funcionalidades backend | Como desarrollador quiero implementar las funcionalidades esenciales para que la aplicación web funcione | TS01, TS02, TS03, TS04, TS05, TS06, TS07, TS08, TS09, TS10, TS11|
+| EP07 | Implementación de las funcionalidades backend | Como desarrollador quiero implementar las funcionalidades esenciales para que la aplicación web funcione | TS01, TS02, TS03, TS04, TS05, TS06, TS07, TS08, TS09, TS10, TS11, TS12, TS13|
 
 
 |User Story ID|Título|Descripción|Criterio de aceptación|<p>Relación (EPIC ID)</p><p></p>|
@@ -777,49 +777,50 @@ Ambos segmentos muestran un fuerte interés en soluciones digitales que puedan a
 
 | #Orden | User Story ID | Título                                                 | Descripción                                                              | Story Points |
 |--------|---------------|--------------------------------------------------------|--------------------------------------------------------------------------|--------------|
-| 1      | TS02          | Gestionar reservas de espacios de juego               | Como desarrollador, necesito implementar endpoints en el API para que los usuarios puedan realizar y gestionar reservas de espacios de juego de forma rápida y sencilla.                                                                                    | 8            |
-| 2      | US13          | Reservar un espacio de juego                          | Como rentor quiero reservar un espacio de juego para divertirme jugando  | 8            |
-| 3      | US12          | Ver horarios de los espacios de juego                 | Como rentor quiero ver la disponibilidad de los espacios de juego para elegir | 5            |
-| 4      | TS01          | Gestionar información de espacios de juego| Como desarrollador, necesito implementar un endpoint en el API para obtener información sobre los espacios de juego                                                                                                  | 5            |
-| 5      | TS05          | Gestionar metodos de pago           | Como desarrollador, necesito implementar endpoints en el API para procesar pagos de forma segura y confiable dentro de la plataforma.                                                                                                                       | 5            |
-| 6      | TS08          | Gestión de suscripciones                  | Como desarrollador, quiero implementar un sistema de gestión de suscripciones para que los usuario pueden mejorar sus cuentas                                      | 5            |
-| 7      | US16          | Cancelar una reserva de un espacio de juego           | Como rentor quiero cancelar una reserva para ya no tener que asistir    | 5            |
-| 8      | US20          | Ver salas comunitarias                                | Como rentor quiero ver las salas comunitarias para unirme a una de ellas| 5            |
-| 9      | US21          | Crear una sala comunitaria                            | Como rentor quiero crear una sala para que otros jugadores puedan unirse a nuestra reserva | 5            |
-| 10     | TS07          | Seguridad y protección de Datos                       | Como desarrollador, quiero implementar medidas de seguridad y protección de datos para garantizar la confidencialidad y la integridad de la información del usuario.                                                                                        | 3            |
-| 11     | US09          | Visualizar espacios de juego   | Como rentor quiero ver los espacios de juego para conocerlos| 3            |
-| 12     | US10          | Visualizar características de los espacios de juego      | Como rentor quiero comparar los espacios de juego para conocer cuál me conviene más | 3            |
-| 13     | US11          | Aplicar filtros de búsqueda                           | Como rentor quiero aplicar filtros para encontrar espacios de juego según mi preferencia | 3            |
-| 14     | US14          | Ver reservas activas de un espacio de juego           | Como rentor quiero ver mis reservas activas para gestionarlas           | 3            |
-| 15     | US15          | Ver historial de reservas de espacios de juego        | Como rentor quiero ver mis reservas antiguas para visualizar su información | 3            |
-| 16     | US17          | Ver una suscripción                                   | Como rentor quiero ver el estado de mi suscripción para gestionarla     | 3            |
-| 17     | US18          | Adquirir una subscripción                             | Como rentor quiero adquirir una subscripción para usar los beneficios    | 3            |
-| 18     | US19          | Cancelar una subscripción                             | Como rentor quiero cancelar una subscripción para dejar de usar los beneficios | 3            |
-| 19     | US28          | Añadir un espacio de juego                            | Como propietario de un espacio de juego quiero añadir mi local a la aplicación web para que los rentores puedan reservar mi local | 3            |
-| 20     | TS11          | Gestionar cuentas de usuario                          | Como desarrollador, necesito implementar endpoints en el API para permitir a los usuarios gestionar sus cuentas, incluyendo la actualización de información personal y la configuración de preferencias.                                                   | 3            |
-| 21     | US22          | Unirse a una sala comunitaria                   | Como rentor quiero unirme a una sala comunitaria para jugar con otros jugadores |3|
-| 22     | US01          | Registro de cuenta de rentor                   | Como rentor deseo registrarme para tener una cuenta | 3   |
-| 23     | US02          | Inicio de sesión de cuenta                   | Como rentor deseo poder ingresar a mi cuenta para usarla |3  |
-| 24     | TS04          | implementar endpoints para la gestión de roles y permisos de usuario | Como desarrollador, necesito implementar endpoints en el API para administrar roles y permisos de usuario, permitiendo controlar de manera eficiente los accesos y acciones permitidas dentro de la plataforma| 3 |
-| 25     | TS03          | Gestionar calificaciones y comentarios de usuarios    | Como desarrollador, necesito implementar endpoints en el API para que los usuarios puedan calificar y dejar comentarios sobre los espacios de juego ocupados | 2            |
-| 26     | US31          | Administrar horarios                                  | Como propietario de un espacio de juego quiero administrar los horarios de mis espacios de juego para conocer sus detalles | 2            |
-| 27     | US29          | Editar un espacio de juego                            | Como propietario de un espacio de juego quiero editar mi local a la aplicación web para modificar información del espacio de juego | 2            |
-| 28     | TS06          | Validación de datos de entrada                        | Como desarrollador, necesito implementar validación de datos de entrada en los endpoints de la API para garantizar la integridad y consistencia de la información.      | 2            |
-| 29     | TS09          | Implementar funcionalidad de inicio de sesión seguro  | Como desarrollador, necesito implementar un endpoint en el API para permitir que los usuarios inicien sesión de forma segura en la plataforma. | 2            |
-| 30     | TS10          | Agregar funcionalidad de recuperación de contraseña   | Como desarrollador, necesito implementar un endpoint en el API para permitir que los usuarios recuperen su contraseña en caso de olvido. | 2            |
-| 31     | US03          | Ver perfil de rentor  | Como rentor quiero acceder a mi perfil para ver mis datos personales | 2            |
-| 32     | US04          | Editar perfil de rentor            |Como rentor deseo acceder a mi perfil para editar mis datos personales | 2            |
-| 33     | US06          | Visualizar tarjetas como método de pago                   | Como rentor quiero visualizar mis tarjetas registradas para gestionarlas| 2            |
-| 34     | US07          | Agregar una tarjeta como método de pago                  | Como rentor quiero agregar mi tarjeta para pagar mis reservas | 2            |
-| 35     | US30          | Eliminar un espacio de juego                          | Como propietario de un espacio de juego quiero eliminar mi local de la aplicación web para que no se visualice más | 1            |
-| 34     | US27          | Contactarse con el soporte                            | Como visitante de la landing page quiero contactarme con el soporte para resolver dudas | 1            |
-| 36     | US26          | Leer preguntas frecuentes                             | Como visitante de la landing page quiero leer preguntas frecuentes para conocer dudas comunes de la aplicación web | 1            |
-| 37     | US25          | Ver información de los desarrolladores                | Como visitante de la landing page quiero ver la información de los desarrolladores para conocer sus perfiles | 1            |
-| 38     | US24          | Conocer los planes de la aplicación web               | Como visitante de la landing page quiero conocer los planes que ofrecen para conocer sus detalles | 1            |
-| 39     | US23          | Conocer acerca de la aplicación web                   | Como visitante de la landing page quiero saber acerca de la aplicación web para conocer sus detalles | 1            |
-| 40     | US23          | Conocer acerca de la aplicación web                   | Como visitante de la landing page quiero saber acerca de la aplicación web para conocer sus detalles | 1            |
-| 41     | US05          | Editar tarjeta como método de pago                  | Como rentor quiero editar la información de mi tarjeta para gestionarla | 1            |
-| 42     | US08          | Borrar un método de pago                  | Como rentor quiero borrar una tarjeta para que ya no esté disponible | 1            |
+| 1  | TS02 | Gestión de salas de juego                                  | Como desarrollador, necesito implementar endpoints en el API para que los usuarios puedan realizar y gestionar reservas de salas de juego de forma rápida y sencilla. | 8        |
+| 2  | TS01 | Gestionar información de los espacios deportivos            | Como desarrollador, necesito implementar endpoints en el API para obtener, agregar, actualizar y eliminar información sobre los espacios de juego disponibles, incluyendo la obtención por ID. | 8        |
+| 3  | US09 | Crear una sala de juego                                    | Como jugador quiero crear una sala de juego para empezar la búsqueda de personas dispuestas a jugar un partido.     | 8        |
+| 4  | US12 | Ingresar a una sala de juego                                | Como jugador quiero ingresar a una sala de juego de mi preferencia para participar en una partida de billar o futbol. | 8        |
+| 5  | US08 | Visualizar salas de juego                                  | Como jugador quiero visualizar las salas de juego disponibles para buscar entre las opciones de mi preferencia.       | 8        |
+| 6  | US22 | Actualizar una suscripción                                 | Como usuario propietario quiero actualizar mi suscripción para usar los beneficios que me da.                        | 8        |
+| 7  | US23 | Visualizar espacios deportivos                             | Como jugador o propietario quiero ver los espacios deportivos que existen en la aplicación para conocer de ellos.    | 8        |
+| 8  | US01 | Registro de cuenta de usuario                              | Como jugador o propietario deseo registrarme para tener una cuenta en la aplicación web D'Taquito.                    | 8        |
+| 9  | US02 | Inicio de sesión de cuenta                                | Como jugador o propietario deseo poder ingresar a mi cuenta para usar las funcionalidades de la aplicación web D'Taquito. | 8        |
+| 10 | US20 | Adquirir una suscripción                                   | Como usuario propietario quiero adquirir una suscripción para usar los beneficios que me da.                          | 8        |
+| 11 | TS05 | Gestión de método de pago                                  | Como desarrollador, necesito implementar endpoints en el API para gestionar métodos de pago de forma segura y confiable dentro de la plataforma. | 8        |
+| 12 | US14 | Visualizar chat de la sala de juego                        | Como jugador quiero ver el chat de la sala de juego para saber lo que comentan otros jugadores.                       | 5        |
+| 13 | TS04 | Implementar endpoints para la gestión de roles y permisos de usuario | Como desarrollador, necesito implementar endpoints en el API para administrar roles y permisos de usuario, permitiendo controlar de manera eficiente los accesos y acciones permitidas dentro de la plataforma. | 5        |
+| 14 | US15 | Usar chat de la sala de juego                              | Como jugador quiero usar el chat de la sala de juego para comunicar mis opiniones o mensajes con los demás jugadores. | 5        |
+| 15 | US13 | Aplicar filtros de búsqueda                                | Como jugador quiero aplicar filtros para encontrar salas de juego según mis preferencias de forma rápida.              | 5        |
+| 16 | US05 | Agregar una tarjeta como método de pago                    | Como jugador o propietario quiero agregar un método de pago para pagar los recursos de la aplicación.                | 5        |
+| 17 | US06 | Visualizar método de pago                                  | Como jugador o propietario quiero visualizar mi método de pago registrado para gestionarla.                           | 5        |
+| 18 | TS11 | Gestionar cuentas de usuario                               | Como desarrollador, necesito implementar endpoints en el API para permitir a los usuarios gestionar sus cuentas, incluyendo la actualización de información personal y la configuración de preferencias. | 5        |
+| 19 | TS08 | Gestión de suscripciones                                  | Como desarrollador, quiero implementar un sistema de gestión de suscripciones para que los usuarios puedan mejorar sus cuentas. | 5        |
+| 20 | TS03 | Gestionar calificaciones y comentarios de usuarios sobre espacios de juego | Como desarrollador, necesito implementar endpoints en el API para que los usuarios puedan calificar y dejar comentarios sobre los espacios de juego ocupados. | 5        |
+| 21 | US07 | Borrar un método de pago                                  | Como usuario jugador o propietario quiero borrar mi método de pago existente para que ya no esté disponible.          | 5        |
+| 22 | US03 | Ver perfil de usuario                                    | Como jugador o propietario quiero acceder a mi perfil para visualizar mis datos personales.                          | 5        |
+| 23 | TS07 | Seguridad y protección de datos                           | Como desarrollador, quiero implementar medidas de seguridad y protección de datos para garantizar la confidencialidad y la integridad de la información del usuario. | 5        |
+| 24 | TS12 | Gestionar perfiles de usuario                             | Como desarrollador, necesito implementar endpoints en el API para que los usuarios puedan crear y editar sus perfiles de manera rápida y sencilla. | 5        |
+| 25 | US25 | Editar un espacio deportivo                               | Como propietario de un espacio deportivo quiero editar mi local en la aplicación web para modificar información del espacio deportivo. | 3        |
+| 26 | US26 | Eliminar un espacio deportivo                             | Como propietario de un espacio deportivo quiero eliminar mi local en la aplicación web para que no se visualice más. | 3        |
+| 27 | US11 | Editar una sala de juego                                  | Como jugador quiero editar los parámetros de la sala para actualizar los detalles.                                    | 3        |
+| 28 | TS06 | Validación de datos de entrada                            | Implementar validación de datos de entrada en los endpoints de la API para garantizar la integridad y consistencia de la información. | 3        |
+| 29 | US10 | Borrar una sala de juego                                  | Como jugador administrador quiero borrar una sala de juego para cancelar la búsqueda de jugadores.                    | 3        |
+| 30 | US04 | Editar perfil de usuario                                  | Como usuario jugador o propietario deseo acceder a mi perfil para editar mis datos personales.                       | 3        |
+| 31 | US19 | Ver una suscripción                                       | Como propietario quiero ver el estado de mi suscripción para gestionarla.                                            | 3        |
+| 32 | US21 | Cancelar una suscripción                                  | Como propietario quiero cancelar una suscripción para dejar de usar los beneficios.                                 | 3        |
+| 33 | US22 | Actualizar una suscripción                                | Como usuario propietario quiero actualizar mi suscripción para usar los beneficios que me da.                        | 3        |
+| 34 | US16 | Visualizar equipos dentro de una sala de juego            | Como jugador de fútbol quiero ver los equipos de la sala de juego para saber cómo se han organizado.                  | 2        |
+| 35 | TS09 | Implementar funcionalidad de inicio de sesión seguro       | Como desarrollador, necesito implementar un endpoint en el API para permitir que los usuarios inicien sesión de forma segura en la plataforma. | 2        |
+| 36 | TS13 | Implementar de grafos en el sistema de recomendación de espacios de juego | Como desarrollador, necesito implementar un sistema de grafos para hacer una buena recomendación de espacios de juego dentro de las salas. | 2        |
+| 37 | US17 | Unirse a un equipo dentro de una sala de juego             | Como jugador de fútbol quiero unirme a un equipo de la sala de juego para escoger un bando.                          | 2        |
+| 38 | TS10 | Agregar funcionalidad de recuperación de contraseña        | Como desarrollador, necesito implementar un endpoint en el API para permitir que los usuarios recuperen su contraseña en caso de olvido. | 2        |
+| 39 | US18 | Cambiarme de equipo dentro de una sala de juego            | Como jugador de fútbol quiero cambiarme de equipo en una sala de juego para jugar para el equipo de mi preferencia.    | 2        |
+| 40 | US27 | Conocer acerca de la aplicación web                        | Como visitante de la landing page quiero saber acerca de la aplicación web para conocer sus detalles.                | 1        |
+| 41 | US28 | Conocer los planes de la aplicación web                    | Como visitante de la landing page quiero conocer los planes que ofrecen para conocer sus detalles.                   | 1        |
+| 42 | US29 | Ver información de los desarrolladores                     | Como visitante de la landing page quiero ver la información de los desarrolladores para conocer sus perfiles.        | 1        |
+| 43 | US30 | Leer preguntas frecuentes                                  | Como visitante de la landing page quiero leer preguntas frecuentes para conocer dudas comunes de la aplicación web.  | 1        |
+| 44 | US31 | Contactarse con el soporte                                | Como visitante de la landing page quiero contactarme con el soporte para resolver dudas.                            | 1        |
 
 <br>
 <br>
