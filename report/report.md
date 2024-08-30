@@ -493,7 +493,7 @@ Entrevista N°5:
 
 Entrevista N°6:
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//AC.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//Tecny//software-architecture-fundamentals-final-project//report//report//images//AC.png" alt="UPC">
 
 - **Entrevistador:** Sebastian Frisancho
 - **Entrevistado:** Alejandro Carrillo
@@ -529,7 +529,7 @@ Entrevista N°8:
 
 Entrevista N°9:
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//AE.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//Tecny//software-architecture-fundamentals-final-project//report//report//images//AE.png" alt="UPC">
 
 - **Entrevistador:** Sebastian Frisancho
 - **Entrevistado:** Ariana Espinoza
@@ -541,7 +541,7 @@ Entrevista N°9:
 
 Entrevista N°10:
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//ES.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//Tecny//software-architecture-fundamentals-final-project//report//report//images//ES.png" alt="UPC">
 
 - **Entrevistador:** Sebastian Frisancho
 - **Entrevistado:** Estephano Sanchez
@@ -577,7 +577,7 @@ Entrevista N°12:
 
   Entrevista N°13:
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//RT.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//Tecny//software-architecture-fundamentals-final-project//report//report//images//RT.png" alt="UPC">
 
 - **Entrevistador:** Sebastian Frisancho
 - **Entrevistado:** Richard TIcona
@@ -589,7 +589,7 @@ Entrevista N°12:
 
 Entrevista N°14:
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//RR.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//Tecny//software-architecture-fundamentals-final-project//report//report//images//RR.png" alt="UPC">
 
 - **Entrevistador:** Sebastian Frisancho
 - **Entrevistado:** Rodrigo Reyes
@@ -601,7 +601,7 @@ Entrevista N°14:
 
   Entrevista N°15:
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//SP.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//Tecny//software-architecture-fundamentals-final-project//report//report//images//SP.png" alt="UPC">
 
 - **Entrevistador:** Sebastian Frisancho
 - **Entrevistado:** Sebastian Pinto
@@ -613,7 +613,7 @@ Entrevista N°14:
 
   Entrevista N°16:
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//SZ.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//Tecny//software-architecture-fundamentals-final-project//report//report//images//SZ.png" alt="UPC">
 
 - **Entrevistador:** Sebastian Frisancho
 - **Entrevistado:** Sebastian Zavaleta
