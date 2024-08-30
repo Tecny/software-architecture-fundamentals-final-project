@@ -71,53 +71,12 @@
 
 <div style="margin-left: 30px;">
 
-### Student Outcome 7<br>
+### Student Outcome <br>
 
-<table>
-  <tr>
-    <th valign="top">Criterio específico</th>
-    <th valign="top">Acciones realizadas</th>
-    <th valign="top">Conclusiones</th>
-  </tr>
-  <td rowspan="5" style="text-align: center; vertical-align: middle;">
-      Primer criterio: Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software.
-      <br><br>
-      Segundo criterio: Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.
-  </td>
-    <td valign="top">
-      TB1 - Primer Criterio - John Atencio: 
-      <br>
-      TB1 - Segundo Criterio - John Atencio: 
-      <br><br>
-    </td>
-    <td rowspan="5" valign="middle">
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      TB1 - Primer Criterio - Henry Centurion: 
-      <br>
-      TB1 - Segundo Criterio - Henry Centurion: 
-      <br><br>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      TB1 - Primer Criterio - Sebastián Frisancho: 
-      <br>
-      TB1 - Segundo Criterio - Sebastián Frisancho: 
-      <br><br>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      TB1 - Primer Criterio - Sebastián Mendez: 
-      <br>
-      TB1 - Segundo Criterio - Sebastián Mendez: 
-      <br><br>
-    </td>
-  </tr>
-</table>
+| **Criterio específico** | **Acciones realizadas**                              | **Conclusiones** |
+|-------------------------|-----------------------------------------------------|------------------|
+| **Primer criterio:** <br> Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software. | **John Atencio:** <br> User Stories & Product Backlog - TB1  <br><br> **Henry Centurion:** <br> Needfinding - TB1 <br><br> **Sebastián Frisancho:** <br> Interviews - TB1 <br><br> **Sebastián Mendez:** <br> Solution Profile - TB1 | Actualizar el Solution Profile del proyecto nos permite dimensionar la capacidad que podemos ofrecer en nuestra aplicación considerando nuestros límites, pero sin que nos detenga a seguir mejorando todos los conceptos como User Stories y entrevistas. Esto nos ayudará a dar una solución optima e innovadora para nuestros usuarios. |
+| **Segundo criterio:** <br> Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software. | **John Atencio:** <br> User Stories & Product Backlog - TB1  <br><br> **Henry Centurion:** <br> Needfinding - TB1 <br><br> **Sebastián Frisancho:** <br> Interviews - TB1 <br><br> **Sebastián Mendez:** <br> Solution Profile - TB1 | Mejorar el diseño de entrevistas nos permite hacer un mejor análisis sobre la problemática que nuestros usuarios experimentan en el contexto en el que trabajamos, ya que con ello mejoraremos e innovaremos más en nuestra solucion lo que requerirá que realicemos investigaciones constantes de aprendizaje. De esta manera, nos dimos cuenta que necesitaremos más conocimiento del que tenemos para concluir el proyecto. |
 
 ### Registro de versiones <br>
 
